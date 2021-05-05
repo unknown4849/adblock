@@ -789,7 +789,6 @@ tag.*
 ||fp-afd.azurefd.net^
 ||tse1.mm.bing.net^
 ||boltdns.net^
-||brightcove.net^
 ||c-0001.c-msedge.net^
 ||c-0002.c-msedge.net^
 ||c-0003.c-msedge.net^
