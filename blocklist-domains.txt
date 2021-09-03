@@ -17,7 +17,6 @@
 ||ip6-allnodes^
 ||ip6-allrouters^
 ||ip6-allhosts^
-||0.0.0.0^
 ||0000rrrvvv.duckdns.org^
 ||0001.best^
 ||000free.us^
