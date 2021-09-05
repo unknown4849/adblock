@@ -6,18 +6,6 @@
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
-||localhost^
-||localhost.localdomain^
-||local^
-||broadcasthost^
-||ip6-localhost^
-||ip6-loopback^
-||ip6-localnet^
-||ip6-mcastprefix^
-||ip6-allnodes^
-||ip6-allrouters^
-||ip6-allhosts^
-||0.0.0.0^
 ||0000rrrvvv.duckdns.org^
 ||0001.best^
 ||000free.us^
