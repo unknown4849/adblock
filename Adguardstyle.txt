@@ -1,6 +1,6 @@
 !
 ! Title: Unified hosts Block
-! Last modified: 2022-07-24T03:15:43.505Z
+! Last modified: 2022-07-24T03:25:46.544Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.14
 !
@@ -22364,6 +22364,7 @@
 ||ads.evga.com^
 ||ads.evtv1.com^
 ||ads.eyeonx.ch^
+||ads.facebook.com^
 ||ads.fakulteti.mk^
 ||ads.farakav.com^
 ||ads.fashionsupreme.co.uk^
@@ -26837,6 +26838,7 @@
 ||an.cliphub.net^
 ||an.constantcontact.com^
 ||an.dongphim.net^
+||an.facebook.com^
 ||an.milb.com^
 ||an.mlb.com^
 ||an.reflektion.com^
@@ -27160,6 +27162,7 @@
 ||analytics.explained-from-first-principles.com^
 ||analytics.explus.vn^
 ||analytics.fabricators.ltd^
+||analytics.facebook.com^
 ||analytics.faceitanalytics.com^
 ||analytics.fancentro.com^
 ||analytics.fastbase.com^
@@ -53211,6 +53214,7 @@
 ||edetlmb.cn^
 ||edetzmh.cn^
 ||edfuyyweyz.com^
+||edge-star-shv-01-bom1.facebook.com^
 ||edge.adobedc.net^
 ||edge.ads.twitch.tv^
 ||edge.bredg.com^
@@ -66077,8 +66081,10 @@
 ||grannysteer.com^
 ||grantedpigsunborn.com^
 ||grapeshot.com^
+||graph-video.facebook.com^
 ||graph.bustle.com^
 ||graph.digiseller.ru^
+||graph.facebook.com^
 ||graph.fbpigeon.com^
 ||graph.snaptube.app^
 ||grapheffect.com^
@@ -111725,6 +111731,7 @@
 ||pixel.dugwood.com^
 ||pixel.europapress.net^
 ||pixel.ex.co^
+||pixel.facebook.com^
 ||pixel.fanbridge.com^
 ||pixel.gfycat.com^
 ||pixel.hecherthepar.pro^
@@ -129087,6 +129094,7 @@
 ||sonacorp.com.pk^
 ||sonadhbpes.com^
 ||sonagerthrou.com^
+||sonar-iad.xx.fbcdn.net^
 ||sonar6.xy.fbcdn.net.iberostar.com^
 ||sonare.jp^
 ||sonataplatform.com^
@@ -158437,7 +158445,6 @@
 ||connect.facebook.net.edgekey.net^
 ||connect.facebook.net^
 ||facebook-web-clients.appspot.com^
-||facebook.com^
 ||facebook.de^
 ||facebook.fr^
 ||fb.com^
@@ -158474,7 +158481,6 @@
 ||fbcdn-video-p-a.akamaihd.net^
 ||fbcdn-vthumb-a.akamaihd.net^
 ||fbcdn.com^
-||fbcdn.net^
 ||fbexternal-a.akamaihd.net^
 ||fbsbx.com^
 ||fbstatic-a.akamaihd.net^
@@ -158486,8 +158492,6 @@
 ||internet.org^
 ||m.me^
 ||messenger.com^
-||profile.ak.facebook.com.edgesuite.net^
-||s-static.ak.facebook.com.edgekey.net^
 ||scontent-ams3-1.cdninstagram.com^
 ||scontent-amt2-1.cdninstagram.com^
 ||scontent-arn2-1.cdninstagram.com^
@@ -158500,9 +158504,7 @@
 ||scontent-sit4-1.cdninstagram.com^
 ||scontent-syd2-1.cdninstagram.com^
 ||scontent.cdninstagram.com^
-||static.ak.facebook.com.edgesuite.net^
 ||static.hootsuite.com^
-||thefacebook.com^
 ||vpn.tfbnw.net^
 ||watchdog.energized.pro^
 ||fp.measure.office.com^
