@@ -166456,7 +166456,6 @@ youtube.nl
 youtube.pl
 youtubeeducation.com
 youtubegaming.com
-youtubei.googleapis.com
 za.youtube.com
 APVPNEast.corp.fitbit.com
 AWS01-NF-01.corp.fitbit.com
