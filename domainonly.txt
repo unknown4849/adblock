@@ -166432,7 +166432,6 @@ kids.youtube.com
 kr.youtube.com
 littlelovely.youtube.com
 live.youtube.com
-m.youtube.com
 misc-sni.youtube.com
 mms.youtube.com
 movies.youtube.com
