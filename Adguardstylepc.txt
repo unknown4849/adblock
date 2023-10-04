@@ -1,6 +1,6 @@
 !
 ! Title: Unified hosts Block
-! Last modified: 2023-10-04T13:46:42.077Z
+! Last modified: 2023-10-04T13:55:39.610Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -9677,7 +9677,6 @@
 ||rum-http-intake.logs.datadoghq.com^
 ||rum-http-intake.logs.datadoghq.eu^
 ||api-sdk.datadome.co^
-||js.datadome.co^
 ||datafeedfile.com^
 ||analytics.datagen.info^
 ||analytics.datagran.io^
