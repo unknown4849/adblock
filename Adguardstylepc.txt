@@ -1,6 +1,6 @@
 !
 ! Title: Unified hosts Block
-! Last modified: 2023-10-08T02:00:23.119Z
+! Last modified: 2023-10-08T12:00:26.496Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -102955,6 +102955,7 @@
 ||fw8vvxfvoe.com^
 ||fx7qw7ufhs.com^
 ||fxtfq4nhaw.com^
+||g.page^
 ||g0tgpatzo2.com^
 ||g5dy0ime6h.com^
 ||g8egehxupr.com^
@@ -103096,6 +103097,7 @@
 ||oldo5rrwhw.com^
 ||onka64mqbc.com^
 ||opensource.google^
+||ordering.page^
 ||p1xjhr2ipa.com^
 ||p698ke6uwk.com^
 ||p98vobrqwd.com^
