@@ -1,6 +1,6 @@
 !
 ! Title: Unified hosts Block
-! Last modified: 2023-10-10T02:00:17.271Z
+! Last modified: 2023-10-10T12:00:37.243Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -49582,7 +49582,6 @@
 ||z-m-scontent.fceb1-1.fna.fbcdn.net^
 ||z-m-scontent.fdac1-1.fna.fbcdn.net^
 ||z-m-scontent.fmex10-1.fna.fbcdn.net^
-||z-m.c10r.facebook.com^
 ||z-m.facebook.com^
 ||z-p3-cdn.fbsbx.com^
 ||z-p3-external.fmdc1-1.fna.fbcdn.net^
@@ -91547,7 +91546,6 @@
 ||www-banner.chat.ru^
 ||www-google-analytics.l.google.com^
 ||www.7-7-7-partner.com^
-||www.sagbutsbhotia.com^
 ||www4.hentai-rpg.com^
 ||www4.hentaigamecg.com^
 ||www5.oss-cn-hangzhou.aliyuncs.com^
@@ -93105,7 +93103,6 @@
 ||geller-pa.googleapis.com^
 ||gmscompliance-pa.googleapis.com^
 ||google.com.onion^
-||googlehosted.l.googleusercontent.com^
 ||growth-pa.googleapis.com^
 ||infinitedata-pa.googleapis.com^
 ||instantmessaging-pa-us.clients6.google.com^
@@ -99471,7 +99468,6 @@
 ||youtubeeducation.com^
 ||youtubegaming.com^
 ||youtubei.youtube.com^
-||yt3.googleusercontent.com^
 ||za.youtube.com^
 ||000-client.fitbit.com^
 ||000-v3-client.fitbit.com^
