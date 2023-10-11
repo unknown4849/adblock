@@ -1,6 +1,6 @@
 !
 ! Title: Unified hosts Block
-! Last modified: 2023-10-11T02:00:17.565Z
+! Last modified: 2023-10-11T04:04:35.895Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -93122,7 +93122,6 @@
 ||mobilenetworkscoring-pa.googleapis.com^
 ||myphonenumbers-pa.googleapis.com^
 ||nfc.android.com^
-||notifications-pa.googleapis.com^
 ||partner.android.com^
 ||partner.source.android.com^
 ||people-pa.googleapis.com^
