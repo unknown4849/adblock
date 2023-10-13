@@ -1,6 +1,6 @@
 !
 ! Title: Unified hosts Block
-! Last modified: 2023-10-12T12:00:21.944Z
+! Last modified: 2023-10-13T02:00:19.687Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -445,6 +445,7 @@
 ||aaplepglobal.112.2o7.net^
 ||abbottlabs.112.2o7.net^
 ||activecampaignsubsdev.112.2o7.net^
+||acutsprod.112.2o7.net^
 ||adbemdigitalmediarebootprod2.112.2o7.net^
 ||adobemobile.112.2o7.net^
 ||adtcomprod.112.2o7.net^
@@ -3237,6 +3238,7 @@
 ||uplynk-beacon-1914127361.ap-southeast-1.elb.amazonaws.com^
 ||wildcard-ads-303593808.ap-southeast-1.elb.amazonaws.com^
 ||nm-mb-collector-lb-2118323421.ap-southeast-2.elb.amazonaws.com^
+||webanalytics-1823844529.ap-southeast-2.elb.amazonaws.com^
 ||muon-collector-kube-1510719261.ca-central-1.elb.amazonaws.com^
 ||sp-collector-lb-1805250686.ca-central-1.elb.amazonaws.com^
 ||ads-1460635594.eu-central-1.elb.amazonaws.com^
@@ -3563,6 +3565,7 @@
 ||analisis.io^
 ||analitycs.net^
 ||aa.analog.com^
+||telemetry.analogtools.io^
 ||matomo.skv.analys.cloud^
 ||matomo.tf.analys.cloud^
 ||marketing.analysysmason.com^
@@ -4095,6 +4098,7 @@
 ||asdhhuztul.com^
 ||asdmcm.com^
 ||asdx55.com^
+||asdyui16.cn^
 ||libs.aseads.com^
 ||aserverstats.com^
 ||aservice.tools^
@@ -4841,6 +4845,7 @@
 ||metrics.barkbox.com^
 ||barlear.ru^
 ||secure.barn5bake.com^
+||analytics.barnebys.com^
 ||analytics.barnebys.net^
 ||marketing.barnumfg.com^
 ||barpasaje.com^
@@ -4985,6 +4990,7 @@
 ||bdbdqbdkdb.com^
 ||stat.bdc.ca^
 ||bdcd2.com^
+||20cfeef03f.bdf7a07377.com^
 ||bdfe35942f.com^
 ||bdhkrzo.net^
 ||su.bdimg.com^
@@ -5665,6 +5671,9 @@
 ||smetrics.bncollege.com^
 ||smetrics.bncvirtual.com^
 ||bndl-trp.com^
+||bnds3.site^
+||bnds6.site^
+||bnds8.site^
 ||bnemati.ir^
 ||bnet.com^
 ||bnewsblite.me^
@@ -5678,6 +5687,7 @@
 ||bnwqcxl.com^
 ||analytics.bnxtrk.com^
 ||smetrics.bnymellon.com^
+||bo2217ok3tro9.com^
 ||bo4news.biz^
 ||boastfive.com^
 ||boasttrial.com^
@@ -6513,6 +6523,7 @@
 ||somni.carecreditprovidercenter.com^
 ||b2b.careerbuilder.com^
 ||careervsjob.com^
+||caremytours.com^
 ||analytics.careselect.org^
 ||analytics.carezen.net^
 ||cclink.carfax.com^
@@ -9265,6 +9276,7 @@
 ||coull.com^
 ||councerned.com^
 ||counter.de^
+||cdn.counter.dev^
 ||counter-go.de^
 ||counter-kostenlos.net^
 ||countercentral.com^
@@ -11399,6 +11411,7 @@
 ||tommybahamagroupinc.demdex.net^
 ||torontostarnewspaperslimited.demdex.net^
 ||totalwine.demdex.net^
+||townshoes.demdex.net^
 ||toyota.demdex.net^
 ||toyotaeurope.demdex.net^
 ||tracfone.demdex.net^
@@ -11615,6 +11628,7 @@
 ||data-6dafa8d42f.desired.de^
 ||wup-sec.desjardins.com^
 ||sxjfhh.desmoinesregister.com^
+||digitaladv.despar.it^
 ||despitejuly.com^
 ||dessaly.com^
 ||dessedcuression.com^
@@ -12095,6 +12109,7 @@
 ||analytics.dots-services.com^
 ||matomo.dotshowroom.in^
 ||at3.doubanio.com^
+||at4.doubanio.com^
 ||ad-emea.doubleclick.net^
 ||ad-g.doubleclick.net^
 ||dmp.doubleclick.net^
@@ -13196,6 +13211,7 @@
 ||euitx.cn^
 ||et.eulerian.net^
 ||fdj.eulerian.net^
+||io1.eulerian.net^
 ||ml.eulerian.net^
 ||sfr.eulerian.net^
 ||euleriancdn.net^
@@ -13237,6 +13253,7 @@
 ||tracking.evanta.com^
 ||evarse.com^
 ||eveald.com^
+||snarf.evebox.org^
 ||get.even.com^
 ||evensys.ro^
 ||analytics.eventbrite.com^
@@ -16535,6 +16552,7 @@
 ||hphp-dy.net^
 ||hpikarkucasz.com^
 ||new.hpk0fu9.jp^
+||banner.hpmdnetwork.ru^
 ||analytics.hpn.com^
 ||imdns.hpplay.cn^
 ||pin.hpplay.cn^
@@ -19937,6 +19955,7 @@
 ||loopassume.com^
 ||loopcybersec.com^
 ||loopd.cyou^
+||metrics.loopearplugs.com^
 ||loopfuse.net^
 ||loopingperoral.com^
 ||lootcs.com^
@@ -25989,6 +26008,7 @@
 ||receptivereaction.com^
 ||analytics.recepty.cz^
 ||recessinternetscald.com^
+||metric.rechargeapps.com^
 ||recklessdroughtburglar.com^
 ||recoco.it^
 ||recode.pw^
@@ -27892,6 +27912,7 @@
 ||analytics.sv.sivvi.com^
 ||siwanaloaded.com^
 ||six-daily-news.com^
+||sixauthority.com^
 ||iq.sixaxisllc.com^
 ||privacy-cdn.sixfifty.com^
 ||sixscissors.com^
@@ -31022,6 +31043,7 @@
 ||typicalstudent.org^
 ||typicalteeth.com^
 ||typiconsult.com^
+||piwik.typo3.org^
 ||tyrotation.com^
 ||tyserving.com^
 ||smetrics.tysonfoodservice.com^
@@ -31741,6 +31763,7 @@
 ||get.venmo.com^
 ||loadtest-opscenter.venmo.biz^
 ||venomousgolf.com^
+||analytics.venomplay.com^
 ||venueitemmagic.com^
 ||venum.top^
 ||venusrevival.com^
@@ -33266,6 +33289,7 @@
 ||collector.xhamster3.com^
 ||collector.xhamster4.com^
 ||collector.xhamster40.desi^
+||collector.xhamster41.desi^
 ||xhivjkfghj.com^
 ||ads-img-qc.xhscdn.com^
 ||ads-video-al.xhscdn.com^
@@ -34158,6 +34182,7 @@
 ||dii2.zoohit.si^
 ||dii2.zoohit.sk^
 ||log-gateway.zoom.us^
+||telemetry.zoom.us^
 ||zoomanalytics.co^
 ||info.zoominfo.io^
 ||zoosnet.net^
@@ -35258,7 +35283,6 @@
 ||bengalimatimony.com^
 ||benkoltd.com^
 ||bennha.com^
-||bentlyauction.com^
 ||benuaghty.com^
 ||berkleysettlement.com^
 ||berskah.com^
@@ -36330,7 +36354,6 @@
 ||dropsendit.com^
 ||drpopbox.com^
 ||eproof.drudgereport.com^
-||druggarfamily.com^
 ||druggedassult.com^
 ||drvehq.com^
 ||drxstudio.com^
@@ -36820,6 +36843,7 @@
 ||funnelenvy.com^
 ||funny-like.com^
 ||funnyyordie.com^
+||funordie.com^
 ||funsite24.com^
 ||funtafreeh.com^
 ||futanar.com^
@@ -36991,7 +37015,7 @@
 ||gogglegame.com^
 ||goglegames.com^
 ||gogorithm.com^
-||gold-bride.com^
+||ww25.gold-bride.com^
 ||goldcoastrenfaire.com^
 ||goldencorral-listeners.com^
 ||goldencorrral-listens.com^
@@ -37984,7 +38008,6 @@
 ||lovelater.com^
 ||lovelocalgirl.com^
 ||loversims.com^
-||marketing.lovesvg.com^
 ||lovetestpro.com^
 ||smetrics.lowes.com^
 ||lowescreditcard.com^
@@ -38650,7 +38673,6 @@
 ||peoplegraph.firstpartyapps.oaspapps.com^
 ||telemetryservice.firstpartyapps.oaspapps.com^
 ||service.cmp.oath.com^
-||octaviagallery.com^
 ||odeswk.com^
 ||odewsk.com^
 ||off--white.com^
@@ -39086,7 +39108,45 @@
 ||trc.pushnami.com^
 ||pushspring.com^
 ||pushtisahitya.com^
-||pusnet.com^
+||authsmtp.pusnet.com^
+||barracuda.pusnet.com^
+||comune.pusnet.com^
+||gate.pusnet.com^
+||gateway.pusnet.com^
+||gw.pusnet.com^
+||home.pusnet.com^
+||host.pusnet.com^
+||mail.pusnet.com^
+||mail02.pusnet.com^
+||mail12.pusnet.com^
+||mail2.pusnet.com^
+||mail3.pusnet.com^
+||ww16.mail5.pusnet.com^
+||mail8.pusnet.com^
+||mailbox.pusnet.com^
+||mailer.pusnet.com^
+||mails.pusnet.com^
+||mx.pusnet.com^
+||mx02.pusnet.com^
+||mx1.pusnet.com^
+||mx4.pusnet.com^
+||newmail.pusnet.com^
+||ns1.pusnet.com^
+||ns2.pusnet.com^
+||outmail.pusnet.com^
+||poczta.pusnet.com^
+||post.pusnet.com^
+||postmaster.pusnet.com^
+||relay1.pusnet.com^
+||server1.pusnet.com^
+||smtp01.pusnet.com^
+||smtpauth.pusnet.com^
+||smtpseguro.pusnet.com^
+||srv.pusnet.com^
+||ww11.pusnet.com^
+||ww16.pusnet.com^
+||ww25.pusnet.com^
+||www.pusnet.com^
 ||putasviejas.com^
 ||puwoqog.com^
 ||pxltgr.com^
@@ -40561,6 +40621,7 @@
 ||vazesh3.com^
 ||analytics.vcdevhub.com^
 ||vciuy.com^
+||ww11.vcrictime.com^
 ||vcyud.com^
 ||veeplay.com^
 ||veeseo.com^
@@ -41734,12 +41795,11 @@
 ||authorne.info^
 ||autodialer.info^
 ||autopaintrepairs.info^
-||www.autopuls.info^
+||autopuls.info^
 ||autria.info^
 ||av18.info^
 ||av815.info^
 ||av99cn.info^
-||avgpctuneup2019.info^
 ||avlist.info^
 ||avpt.info^
 ||avtonom.info^
@@ -42644,6 +42704,11 @@
 ||organizationalmarket.info^
 ||outdooradventure.info^
 ||outdoorman.info^
+||ww11.ov3.info^
+||ww17.ov3.info^
+||ww25.ov3.info^
+||ww38.ov3.info^
+||www.ov3.info^
 ||p108.info^
 ||packettracer.info^
 ||padnij.info^
@@ -42709,34 +42774,7 @@
 ||pornstock.info^
 ||porshe.info^
 ||portablesoft.info^
-||auth.portailwebecoles.info^
-||email.portailwebecoles.info^
-||gateway.portailwebecoles.info^
-||host.portailwebecoles.info^
-||imap2.portailwebecoles.info^
-||mail9.portailwebecoles.info^
-||mailer.portailwebecoles.info^
-||mailx.portailwebecoles.info^
-||mx2.portailwebecoles.info^
-||mx4.portailwebecoles.info^
-||outmail.portailwebecoles.info^
-||poczta.portailwebecoles.info^
-||pop.portailwebecoles.info^
-||post.portailwebecoles.info^
-||postmaster.portailwebecoles.info^
-||secure.portailwebecoles.info^
-||server.portailwebecoles.info^
-||server1.portailwebecoles.info^
-||smtpauth.portailwebecoles.info^
-||ww11.portailwebecoles.info^
-||ww16.portailwebecoles.info^
-||ww17.portailwebecoles.info^
-||ww2.portailwebecoles.info^
-||ww25.portailwebecoles.info^
-||ww38.portailwebecoles.info^
-||www.portailwebecoles.info^
-||www1.portailwebecoles.info^
-||www2.portailwebecoles.info^
+||portailwebecoles.info^
 ||postcode-zoeken.info^
 ||potenzstoerungen.info^
 ||pozivitno.info^
@@ -42768,7 +42806,6 @@
 ||quranona.info^
 ||rabidshare.info^
 ||ract.info^
-||ww1.rad-facts-to-possessmovingforth.info^
 ||radiobg.info^
 ||radiomotofm.info^
 ||radioshqip.info^
@@ -42877,6 +42914,7 @@
 ||sheriff.info^
 ||shineworks.info^
 ||ww1.shippuden.info^
+||ww38.shippuden.info^
 ||www.shippuden.info^
 ||shkid.info^
 ||shlink.info^
@@ -43105,7 +43143,6 @@
 ||verthewalkingdeadonline.info^
 ||vestige.info^
 ||ww1.videoindir.info^
-||ww38.videoindir.info^
 ||videoking.info^
 ||videoprivate.info^
 ||vidk.info^
@@ -44421,6 +44458,7 @@
 ||pyramisa.net^
 ||qksrv.net^
 ||siteintercept.qprod2.net^
+||www.qudsmedia.net^
 ||railtouring.net^
 ||rallyad-server.net^
 ||randyorton.net^
@@ -44450,7 +44488,7 @@
 ||scottcountysheriff.net^
 ||sdkninc.net^
 ||seadform.net^
-||searchdragon.net^
+||search.searchdragon.net^
 ||searchduck.net^
 ||sftrack.searchforce.net^
 ||searchtubes.net^
@@ -44842,7 +44880,7 @@
 ||azmunakan.org^
 ||babelinks.org^
 ||app.backinstock.org^
-||bagira.org^
+||ww25.old.bagira.org^
 ||baillii.org^
 ||bajkidladzieci.org^
 ||ballotopedia.org^
@@ -45084,7 +45122,6 @@
 ||diettoday.org^
 ||digipos.org^
 ||digitalbazaar.org^
-||digitalminimalism.org^
 ||dirtyvideos.org^
 ||disasterflorida.org^
 ||discoverysummit.org^
@@ -45937,7 +45974,6 @@
 ||scoliosis-support.org^
 ||scoutin.org^
 ||scp-foundation.org^
-||ww25.lozers.scribblekid.org^
 ||scribd.org^
 ||sdacape.org^
 ||sdutlinux.org^
@@ -47185,6 +47221,7 @@
 ||xnspy.com^
 ||xpcpanel.com^
 ||zdalnakontrola.pl^
+||d3pnod4lg28ix4.cloudfront.net^
 ||s.4cola.com^
 ||s.4tr.cc^
 ||creative.ytboob.live^
@@ -60049,7 +60086,6 @@
 ||diginamis.com^
 ||digital-ads.s3.amazonaws.com^
 ||digital2cloud.com^
-||digitaladv.despar.it^
 ||digitaldsp.com^
 ||digitalmediapp.com^
 ||digitalmerkat.com^
@@ -64662,7 +64698,6 @@
 ||gml-grp.com^
 ||gmossp-sp.jp^
 ||gmpatched.tech^
-||gmx26.top^
 ||gmxvmvptfm.com^
 ||gmyze.com^
 ||gmzdaily.com^
@@ -85970,7 +86005,6 @@
 ||vdc.zoomph.com^
 ||vde1.voyage-prive.de^
 ||vdebtqm.xyz^
-||vdggsd012.com^
 ||vdlvry.com^
 ||vdoubt.com^
 ||ve.gweedunweld.com^
@@ -87703,7 +87737,7 @@
 ||www-banner.chat.ru^
 ||www-google-analytics.l.google.com^
 ||www.7-7-7-partner.com^
-||www.gmx20.top^
+||www.gmx26.top^
 ||www4.hentai-rpg.com^
 ||www4.hentaigamecg.com^
 ||www5.oss-cn-hangzhou.aliyuncs.com^
