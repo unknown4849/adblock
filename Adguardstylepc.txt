@@ -1,6 +1,6 @@
 !
 ! Title: Unified hosts Block
-! Last modified: 2023-10-14T02:00:22.622Z
+! Last modified: 2023-10-14T12:00:43.127Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -3739,6 +3739,7 @@
 ||matomo.privacy.apache.org^
 ||apalbs.com^
 ||dsp.aparat.com^
+||aparlayship.com^
 ||dbmyvl.apartmentfinder.com^
 ||mpglie.apartmentguide.com^
 ||yjxssk.apartments.com^
@@ -15213,7 +15214,6 @@
 ||givememmastreams.com^
 ||givevacation.com^
 ||gixhlii.xyz^
-||gizlnr.com^
 ||sourcepoint.gizmodo.com^
 ||gjdpzn.com^
 ||gjipd.xyz^
@@ -23839,6 +23839,7 @@
 ||vastcdn.outbrain.com^
 ||videoadextradata.outbrain.com^
 ||videoclientsservicescalls.outbrain.com^
+||widget-pixels.outbrain.com^
 ||widgetmonitor.outbrain.com^
 ||wiz.outbrain.com^
 ||wpadmin.outbrain.com^
@@ -26808,6 +26809,7 @@
 ||ru4.com^
 ||ruay.com^
 ||analytics.rubensteintech.com^
+||aws.rubiconproject.com^
 ||beacon-iad2.rubiconproject.com^
 ||beacon-iad3.rubiconproject.com^
 ||beacon-nf.rubiconproject.com^
@@ -27245,6 +27247,7 @@
 ||scintillatingspace.com^
 ||scissorsstatement.com^
 ||scoop.it^
+||aprod.scopely.io^
 ||sdk.scopely.io^
 ||info.scorecardrewards.com^
 ||gallys.scoreland.com^
@@ -28068,7 +28071,10 @@
 ||assistjs.skimresources.com^
 ||ls.skimresources.com^
 ||m.skimresources.com^
+||p.skimresources.com^
 ||p-kube.skimresources.com^
+||r.skimresources.com^
+||t.skimresources.com^
 ||x.skimresources.com^
 ||skinkexchange.com^
 ||skipped.vip^
@@ -28217,6 +28223,7 @@
 ||cdn.hbbtv.smartclip.net^
 ||scheduler.hbbtv.smartclip.net^
 ||stats.hbbtv.smartclip.net^
+||stats.smartclip.net^
 ||bid.sxp.smartclip.net^
 ||cache.sxp.smartclip.net^
 ||des.sxp.smartclip.net^
@@ -28264,13 +28271,11 @@
 ||smashpops.com^
 ||smashquartz.com^
 ||smashsurprise.com^
-||smatr.icu^
 ||smct.co^
 ||dolnyzemplin.korzar.sme.sk^
 ||beam.remp.sme.sk^
 ||campaign.remp.sme.sk^
 ||smearedbin.com^
-||smelel.icu^
 ||smetrics.abbott^
 ||analytics.smhi.se^
 ||smi.today^
@@ -29445,6 +29450,7 @@
 ||match.taboola.com^
 ||mb.taboola.com^
 ||nr.taboola.com^
+||opps.taboola.com^
 ||popup.taboola.com^
 ||resources.taboola.com^
 ||sg-match.taboola.com^
@@ -29462,6 +29468,7 @@
 ||vidanalytics.taboola.com^
 ||vidstatb.taboola.com^
 ||vidutils.taboola.com^
+||wf.taboola.com^
 ||taboolasyndication.com^
 ||tabsorg.com^
 ||tabulaeokas.com^
@@ -43747,6 +43754,7 @@
 ||beacon-cdn.walmart.com.akadns.net^
 ||beacon-mobile.walmart.com.akadns.net^
 ||dotomi.weighted.com.akadns.net^
+||dvgtm.akadns.net^
 ||eyeblaster.akadns.net^
 ||livepersonk.akadns.net^
 ||telemetry-geo.docusign.net.akadns.net^
@@ -50663,6 +50671,7 @@
 ||adsfs.oppomobile.com^
 ||adsfundi.com^
 ||adsfuse.com^
+||adsgard.aprod.scopely.io^
 ||adsgig.com^
 ||adsgo.nhipcaudautu.vn^
 ||adshack.com^
@@ -52526,7 +52535,6 @@
 ||ap.frarychazan.com^
 ||ap.smardroid.com^
 ||ap3lorf0il.com^
-||aparlayship.com^
 ||apatheticdrawerscolourful.com^
 ||apatheticformingalbeit.com^
 ||apcpaxwfej.com^
@@ -52581,6 +52589,7 @@
 ||api.clickaine.com^
 ||api.cloudmobi.net^
 ||api.data-analytics.pokemon.com^
+||api.exc.mob.com^
 ||api.flocktory.com^
 ||api.fusepowered.com^
 ||api.fw.tv^
@@ -52604,6 +52613,7 @@
 ||api.ozui.vn^
 ||api.pingstart.com^
 ||api.pubfinity.com^
+||api.share.mob.com^
 ||api.slice.exchange^
 ||api.telemetry.watchabc.go.com^
 ||api.trueaudience.io^
@@ -52759,7 +52769,6 @@
 ||appzjax.com^
 ||apqazdxirqz.com^
 ||aprilineffective.com^
-||aprod.scopely.io^
 ||apromoweb.com^
 ||apsidesslurry.space^
 ||apsmediaagency.com^
@@ -53536,7 +53545,6 @@
 ||awqwuiwmse.com^
 ||awrfds3.pornpapa.com^
 ||aws-itcloud.net^
-||aws.rubiconproject.com^
 ||awstaticdn.net^
 ||awsurveys.com^
 ||awsync.yandex.ru^
@@ -53749,6 +53757,7 @@
 ||badspads.com^
 ||badtopwitch.work^
 ||badubaho.com^
+||badujaub.xyz^
 ||badword.xyz^
 ||baect.com^
 ||baelungilt.guru^
@@ -55996,6 +56005,7 @@
 ||carpi3fnusbetgu5lus.com^
 ||carredwithblao.xyz^
 ||carrellsubdit.com^
+||carrick-ui.advoncommerce.com^
 ||carrydollarcrashed.com^
 ||carryhummight.com^
 ||carryingfarmerlumber.com^
@@ -61232,7 +61242,6 @@
 ||dvc8653ec6uyk.cloudfront.net^
 ||dvdgayonline.com^
 ||dvenkbn.icu^
-||dvgtm.akadns.net^
 ||dvigukindal.com^
 ||dvl8xapgpqgc1.cloudfront.net^
 ||dvmdwmnyj3u4h.cloudfront.net^
@@ -62509,7 +62518,6 @@
 ||exampulsate.com^
 ||exarchykhu.store^
 ||exasperationplotincarnate.com^
-||exc.mob.com^
 ||exceedinglydiscovered.com^
 ||excelelernody.info^
 ||excellenceads.com^
@@ -64684,6 +64692,7 @@
 ||givingsol.com^
 ||gixgav.icu^
 ||gixiluros.com^
+||gizlnr.com^
 ||gjapplog.uc.cn^
 ||gjapplog.ucweb.com^
 ||gjc.gjirafa.com^
@@ -64862,6 +64871,7 @@
 ||gml-grp.com^
 ||gmossp-sp.jp^
 ||gmpatched.tech^
+||gmx16.top^
 ||gmxvmvptfm.com^
 ||gmyze.com^
 ||gmzdaily.com^
@@ -65574,7 +65584,7 @@
 ||hainoruz.com^
 ||hairoak.com^
 ||hairpintacticalartsy.com^
-||haise3.top^
+||haise5.top^
 ||haitingshospi.info^
 ||hajilijnemo.com^
 ||halachadivvers.com^
@@ -69849,6 +69859,7 @@
 ||llama.mallardbay.com^
 ||llama.vivriticapital.com^
 ||llantynethebrav.xyz^
+||llblwzg.xyz^
 ||lleadupthere.xyz^
 ||llevenmanis.xyz^
 ||llmeocaptainh.com^
@@ -73440,6 +73451,7 @@
 ||nyadmcncserve-05y06a.com^
 ||nyadra.com^
 ||nybblesbarotse.com^
+||nycp-hlb.dvgtm.akadns.net^
 ||nydbehindforh.xyz^
 ||nyetm2mkch.com^
 ||nygwcwsvnu.com^
@@ -74205,8 +74217,8 @@
 ||oppositehometowndrunken.com^
 ||oppozga.com^
 ||oppressionhopefully.com^
-||opps.taboola.com^
 ||oppullpick.live^
+||oprece.xyz^
 ||oprill.com^
 ||ops.ccmbg.com^
 ||opsaupsa.com^
@@ -74689,7 +74701,6 @@
 ||p.nag.ru^
 ||p.porn.fr^
 ||p.raasnet.com^
-||p.skimresources.com^
 ||p.smartertravel.com^
 ||p.statp.com^
 ||p.tanx.com^
@@ -75080,7 +75091,6 @@
 ||pbtxt.win^
 ||pc-ads.com^
 ||pc-my-protection.xyz^
-||pc-on-internet.com^
 ||pc180101.com^
 ||pc1ads.com^
 ||pc2ads.com^
@@ -77566,7 +77576,6 @@
 ||qwerfdx.com^
 ||qwertytracks.com^
 ||qwfh39851jtfvkurf21hf.com^
-||qwjtdcl.cn^
 ||qwyaqhortog.com^
 ||qx0.xnxxtubevideos.com^
 ||qxdownload.com^
@@ -77600,7 +77609,6 @@
 ||r.popin.cc^
 ||r.rbc.ru^
 ||r.sax.sina.com.cn^
-||r.skimresources.com^
 ||r.tinmoi24.vn^
 ||r.topdent.ru^
 ||r.tropictube.com^
@@ -79340,6 +79348,7 @@
 ||rysheatlengthanl.xyz^
 ||ryvexulg.xyz^
 ||rzawugotwc.com^
+||rzflhxn.cn^
 ||rzlp.xyz^
 ||rzneekilff.com^
 ||rzxov.cn^
@@ -80270,7 +80279,6 @@
 ||shaquevip.oss-cn-zhangjiakou.aliyuncs.com^
 ||shar3yourf1le.com^
 ||share-server.com^
-||share.mob.com^
 ||shareadspace.com^
 ||sharecash.org^
 ||sharedfragileproduced.com^
@@ -80875,8 +80883,10 @@
 ||smartytech.io^
 ||smashnewtab.com^
 ||smathe.com^
+||smatr.icu^
 ||smearincur.com^
 ||smeartoassessment.com^
+||smelel.icu^
 ||smellytorment.com^
 ||smelt.allenpike.com^
 ||smelt.gautrowski.com^
@@ -80908,6 +80918,7 @@
 ||smitionsory.co^
 ||smitry.com^
 ||smjulynews.com^
+||smlpcz.icu^
 ||smmmqq.com^
 ||smoggylong.pro^
 ||smokebookcase.com^
@@ -81902,7 +81913,6 @@
 ||static.rtbwire.com^
 ||static.saturndynamic.pt^
 ||static.serverhost1.com^
-||static.shareasale.com^
 ||static.showcasead.com^
 ||static.theardent.group^
 ||static.topdealad.com^
@@ -81961,6 +81971,7 @@
 ||stats.articlesbase.com^
 ||stats.asp24.pl^
 ||stats.avg.com^
+||stats.aws.rubiconproject.com^
 ||stats.bbc.co.uk^
 ||stats.bizweb.vn^
 ||stats.blogg.se^
@@ -82033,7 +82044,6 @@
 ||stats.sharenet.co.za^
 ||stats.shopify.com^
 ||stats.slideshare.net^
-||stats.smartclip.net^
 ||stats.someecards.com^
 ||stats.sprocketrocket.co^
 ||stats.stg.zaloapp.com^
@@ -82862,7 +82872,6 @@
 ||t.seesaa.net^
 ||t.sieu-viet.com^
 ||t.simply-hentai.com^
-||t.skimresources.com^
 ||t.smartverify.pro^
 ||t.sports.ru^
 ||t.sur.new.gorodkirov.ru^
@@ -84179,6 +84188,7 @@
 ||toysrestrictcue.com^
 ||tozoruaon.com^
 ||tp.content-score.com^
+||tp.convertiser.com^
 ||tp.sgcn.com^
 ||tp1jcgl644jk.com^
 ||tp4sul.jwzd.com.cn^
@@ -84743,6 +84753,7 @@
 ||traglencium.com^
 ||trahes.site^
 ||traiah.com^
+||trail.71baomu.com^
 ||trainedpiano.com^
 ||trainsregardless.com^
 ||trainsrolldrunken.com^
@@ -85200,6 +85211,7 @@
 ||tvw8edxhpf.ru^
 ||tvxetxjvobm.com^
 ||tvxqdp.xyz^
+||tvxrpdfgitlbsb.xyz^
 ||twaepowers.space^
 ||twazzyoidwlfe.com^
 ||twbqqq.com^
@@ -86199,6 +86211,7 @@
 ||vdc.zoomph.com^
 ||vde1.voyage-prive.de^
 ||vdebtqm.xyz^
+||vdggsd014.com^
 ||vdlvry.com^
 ||vdoubt.com^
 ||ve.gweedunweld.com^
@@ -86305,6 +86318,7 @@
 ||vg4u8rvq65t6.com^
 ||vghkncbu.xyz^
 ||vghnnh.xyz^
+||vgjaxnuw.xyz^
 ||vgo.vegaoo.de^
 ||vgs-collect-keeper.apps.verygood.systems^
 ||vgw35hwr4w6x.com^
@@ -87243,7 +87257,6 @@
 ||wetrack.it^
 ||wetzal.com^
 ||wexevoom.net^
-||wf.taboola.com^
 ||wf66l5ylwq.com^
 ||wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me^
 ||wfnpay.com^
@@ -87426,7 +87439,6 @@
 ||widelyuddercancelling.com^
 ||widespace.com^
 ||widezealconstant.com^
-||widget-pixels.outbrain.com^
 ||widget-view.dmm.co.jp^
 ||widget-view.dmm.com^
 ||widget.admiral.hr^
@@ -87647,6 +87659,7 @@
 ||wledconsi.xyz^
 ||wlmarketing.com^
 ||wlog.ifdo.co.kr^
+||wlog.kuaishou.com^
 ||wlog.tmon.co.kr^
 ||wlsynmle.fun^
 ||wm-space.youero.com^
@@ -87933,6 +87946,7 @@
 ||www-banner.chat.ru^
 ||www-google-analytics.l.google.com^
 ||www.7-7-7-partner.com^
+||www.aueajkn.cn^
 ||www4.hentai-rpg.com^
 ||www4.hentaigamecg.com^
 ||www5.oss-cn-hangzhou.aliyuncs.com^
