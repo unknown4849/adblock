@@ -1,6 +1,6 @@
 !
 ! Title: Unified hosts Block
-! Last modified: 2023-11-02T03:38:25.642Z
+! Last modified: 2023-11-02T03:39:14.741Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -22632,7 +22632,9 @@
 ||nuviewlifesciencescareers.com^
 ||matomo.nv.ua^
 ||remp.nv.ua^
+||telemetry.gfe.nvidia.com^
 ||smetrics.nvidia.com^
+||telemetry.nvidia.com^
 ||nvod.pl^
 ||info.nvtc.org^
 ||data-81547504c8.nw.de^
@@ -88808,30 +88810,3 @@
 ||zzrjdp.xyz^
 ||zzxedr.xyz^
 ||zzxmcp.com^
-||activation.gfe.nvidia.com^
-||events-lon1.gfe.nvidia.com^
-||telemetry.nvidia.com^
-||activation-dc1.gfe.nvidia.com^
-||cs515.adn.phicdn.net^
-||api.gfe.nvidia.com^
-||events.gfestage.nvidia.com^
-||telemetry.gfestage.nvidia.com^
-||telemetry.gfe.nvidia.com^
-||gfe.nvidia.com^
-||gfwsl.geforce.com^
-||services.gfe.nvidia.com^
-||accounts.nvgs.nvidia.com^
-||accounts.nvgs.nvidia.cn^
-||events.gfe.nvidia.com^
-||img.nvidiagrid.net^
-||images.nvidiagrid.net^
-||ls.dtrace.nvidia.com^
-||ota.nvidia.com^
-||ota-downloads.nvidia.com^
-||rds-assets.nvidia.com^
-||assets.nvidiagrid.net^
-||nvidia.tt.omtrdc.net^
-||api.commune.ly^
-||login.nvgs.nvidia.com^
-||login.nvgs.nvidia.cn^
-||detectportal.firefox.com^
