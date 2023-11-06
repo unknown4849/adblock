@@ -1,6 +1,6 @@
 !
 ! Title: Unified hosts Block
-! Last modified: 2023-11-06T02:00:17.807Z
+! Last modified: 2023-11-06T12:00:22.007Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -47343,6 +47343,7 @@
 ||tittyptinoid.com^
 ||tiurll.com^
 ||tivatino.de^
+||a.tixir.xyz^
 ||tizru.com^
 ||tjekscores.dk^
 ||church.tjhhylh.com^
@@ -65821,6 +65822,7 @@
 ||api.seniorsafetyapp.com^
 ||api.spylix.com^
 ||api.trackview.lifecircle.app^
+||api007.foxspy.com.br^
 ||apidemo.spylix.com^
 ||apispyhuman.com^
 ||apitest.awarenesstechnologies.com^
@@ -65884,6 +65886,8 @@
 ||copy9db.com^
 ||corn-cob.com^
 ||cp.thewispy.com^
+||cpcalendars.spymasterpro.com^
+||cpcontacts.spymasterpro.com^
 ||d-app-apk.com^
 ||d1gslyvqtipqvi.cloudfront.net^
 ||d24lo6rmha82nf.cloudfront.net^
@@ -66008,6 +66012,11 @@
 ||media-sync-a940.thetruthspy.com^
 ||media-sync-a941.thetruthspy.com^
 ||media-sync-a942.thetruthspy.com^
+||media-sync-a943.thetruthspy.com^
+||media-sync-a944.thetruthspy.com^
+||media-sync-a945.thetruthspy.com^
+||media-sync-a946.thetruthspy.com^
+||media-sync-a947.thetruthspy.com^
 ||media-sync.systemserviceprovider.com^
 ||media.thetruthspy.com^
 ||message-tracker-98822.firebaseio.com^
@@ -67874,7 +67883,6 @@
 ||a.teencfnm.com^
 ||a.thefreedictionary.com^
 ||a.thelocal.com^
-||a.tixir.xyz^
 ||a.tiyuxiu.com^
 ||a.tortuko.club^
 ||a.tvsou.com^
@@ -101979,6 +101987,7 @@
 ||titsandtits.com^
 ||tiwhaiph.net^
 ||tiwouboa.com^
+||tixir.xyz^
 ||tizadumbed.com^
 ||tizer.medikforum.ru^
 ||tizer.rupornophoto.com^
