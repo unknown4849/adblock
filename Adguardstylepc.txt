@@ -1,6 +1,6 @@
 !
 ! Title: Unified hosts Block
-! Last modified: 2023-11-10T12:00:22.380Z
+! Last modified: 2023-11-10T14:33:43.090Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -30207,7 +30207,6 @@
 ||analytic.mncanalytics.net^
 ||analytics.mncdigital.id^
 ||mnet-ad.net^
-||mneydirec.com^
 ||mngbqpz.cc^
 ||mnhknds.com^
 ||mnhncf.cn^
@@ -86469,6 +86468,7 @@
 ||mndsrv.com^
 ||mnekumtrssln.com^
 ||mnetads.com^
+||mneydirec.com^
 ||mng-ads.com^
 ||mnnmnn.com^
 ||mo.gushiji.cc^
