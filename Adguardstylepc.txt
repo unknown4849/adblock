@@ -1,6 +1,6 @@
 !
 ! Title: Unified hosts Block
-! Last modified: 2023-11-10T02:00:22.813Z
+! Last modified: 2023-11-10T12:00:22.380Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -58673,7 +58673,6 @@
 ||xfin.me^
 ||cdn.admetrics.media^
 ||gatescoin.media^
-||ads.nextday.media^
 ||zbo.media^
 ||marketing365.mk^
 ||adex.mobi^
@@ -65423,6 +65422,7 @@
 ||ads.newmedia.cz^
 ||ads.newsint.co.uk^
 ||ads.newsquest.co.uk^
+||ads.nextday.media^
 ||ads.nghenhinvietnam.vn^
 ||ads.nhadatmoi.net^
 ||ads.nicovideo.jp^
