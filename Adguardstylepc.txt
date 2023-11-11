@@ -1,6 +1,6 @@
 !
 ! Title: Unified hosts Block
-! Last modified: 2023-11-11T02:01:12.502Z
+! Last modified: 2023-11-11T12:00:21.055Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -5674,6 +5674,7 @@
 ||gdpr-banner.awsmpsa.com^
 ||awstats.cloud^
 ||awuedu.org^
+||awyebweybeqym.top^
 ||awzbijw.com^
 ||axdsz.pro^
 ||axelarigatowien.com^
@@ -27605,9 +27606,6 @@
 ||ruc.nudge.lgtvcommon.com^
 ||aic.rdl.lgtvcommon.com^
 ||kic.rdl.lgtvcommon.com^
-||eic.service.lgtvcommon.com^
-||kic.service.lgtvcommon.com^
-||ruc.service.lgtvcommon.com^
 ||trk.lgw.io^
 ||lgzoido.me^
 ||lhamad.gq^
@@ -32101,7 +32099,6 @@
 ||ngocdung.net^
 ||ngocquymould.com^
 ||ngreditinaja.top^
-||ngrok.com^
 ||analytics.ngs.ru^
 ||nguyenthanhdat.com^
 ||analytics.nhanow.com^
@@ -50090,7 +50087,9 @@
 ||afpesp.com^
 ||afrhugaqzbt.com^
 ||africafashioninternational.com^
-||afripa.com^
+||mail.afripa.com^
+||webdisk.afripa.com^
+||www.afripa.com^
 ||afullspa.com^
 ||agedpervert.com^
 ||agendaconsulado.com^
@@ -51332,7 +51331,8 @@
 ||cquotient.com^
 ||cr8-one.com^
 ||cradelpoint.com^
-||craft2000.com^
+||mail.craft2000.com^
+||www.craft2000.com^
 ||craftprimes.com^
 ||craftvillas.com^
 ||crageslest.com^
@@ -53863,9 +53863,6 @@
 ||ncaafb.com^
 ||ncuwtufam.com^
 ||adproxy.ndmdhs.com^
-||analyze.neatab.com^
-||services.neatab.com^
-||staging.neatab.com^
 ||neewgoogle.com^
 ||neglot.com^
 ||nehnutelnosti.com^
@@ -54287,15 +54284,7 @@
 ||pncbankarts.com^
 ||pnstat.com^
 ||pocketpcheaven.com^
-||dev.podersa.com^
-||m.podersa.com^
-||old.podersa.com^
-||shop.podersa.com^
-||sitemaps.podersa.com^
-||test.podersa.com^
-||ww1.podersa.com^
-||ww25.podersa.com^
-||www.podersa.com^
+||podersa.com^
 ||connect.podium.com^
 ||analytics.podtrac.com^
 ||poduveli.com^
@@ -56270,6 +56259,7 @@
 ||wweyoutube.com^
 ||www-6pm.com^
 ||www-banorte.com^
+||www-omegle.com^
 ||www-orkut.com^
 ||www-us-computershare.com^
 ||www-youjizz.com^
@@ -57004,8 +56994,13 @@
 ||adessonews.info^
 ||adidasspringblade2.info^
 ||autodiscover.aditech.info^
+||chandra.aditech.info^
 ||cpcontacts.aditech.info^
+||devbox.aditech.info^
+||images.aditech.info^
+||kranti.aditech.info^
 ||mail.aditech.info^
+||newtosap.aditech.info^
 ||adm-vids.info^
 ||advertisers.info^
 ||aerjournal.info^
@@ -57037,7 +57032,6 @@
 ||anash.info^
 ||andreas-hofer.info^
 ||androiddevice.info^
-||ww11.androidfilmy.info^
 ||androidioshacks.info^
 ||androidpolice.info^
 ||angebote.info^
@@ -57423,7 +57417,6 @@
 ||fazu.info^
 ||fcsite.info^
 ||ww11.fdating.info^
-||ww38.fdating.info^
 ||ferdos.info^
 ||ferienhausinnorwegen.info^
 ||figvam.info^
@@ -57722,6 +57715,7 @@
 ||krisallendaily.info^
 ||kristijan.info^
 ||ww1.kritika.info^
+||www.kritika.info^
 ||kroatien.info^
 ||krzewy.info^
 ||kumang45d.info^
@@ -57791,7 +57785,6 @@
 ||maison-diabete.info^
 ||maitreya.info^
 ||malalady.info^
-||malayalambible.info^
 ||malaysiaup.info^
 ||manapeddapuram.info^
 ||manga-channel.info^
@@ -57873,7 +57866,6 @@
 ||muanyagablak.info^
 ||mueckenschutz.info^
 ||mail.mujerbella.info^
-||www.mujerbella.info^
 ||muldental.info^
 ||multi3ker.info^
 ||multivitamine.info^
@@ -58064,6 +58056,7 @@
 ||prettymilfs.info^
 ||primeronoticiasmx.info^
 ||priority-pass.info^
+||mail.privatejobs.info^
 ||prlinkpop.info^
 ||problemhaut.info^
 ||procurements.info^
@@ -58080,9 +58073,7 @@
 ||pword.info^
 ||python-os.info^
 ||que-significa-mi-nombre.info^
-||cpcalendars.quebradadehumahuaca.info^
-||mail.quebradadehumahuaca.info^
-||webdisk.quebradadehumahuaca.info^
+||quebradadehumahuaca.info^
 ||quepaso.info^
 ||quicktime-download.info^
 ||quranona.info^
@@ -58242,7 +58233,6 @@
 ||spruiten.info^
 ||spycamsfromguys.info^
 ||sqmf.info^
-||sserbanro.info^
 ||ssmatomeantenna.info^
 ||startbeestlife.info^
 ||stato.info^
@@ -58348,7 +58338,9 @@
 ||toram.info^
 ||torentgames.info^
 ||torino.info^
-||torjacka.info^
+||ww16.torjacka.info^
+||ww25.torjacka.info^
+||www.torjacka.info^
 ||torrentgamesps2.info^
 ||torrentsave.info^
 ||totaalbalans.info^
@@ -59860,7 +59852,6 @@
 ||tylerlee.net^
 ||p.typekit.net^
 ||ufim.net^
-||ww84.undressedwomen.net^
 ||upapi.net^
 ||updtr.net^
 ||upskirts69.net^
@@ -61004,10 +60995,7 @@
 ||oraesatta.org^
 ||orbotech.org^
 ||organizando.org^
-||ww25.orgyzilla.org^
-||ww31.orgyzilla.org^
-||ww38.orgyzilla.org^
-||www.orgyzilla.org^
+||orgyzilla.org^
 ||orproject.org^
 ||orsm.org^
 ||osecac.org^
@@ -61332,6 +61320,7 @@
 ||stmonicatucson.org^
 ||stopanimalcrueltyhsc.org^
 ||stoptextstopwrecks.org^
+||stpatrickvn.org^
 ||stream-hd.org^
 ||streamtowatch.org^
 ||streetworkout.org^
@@ -63507,7 +63496,6 @@
 ||52c9f48b14.com^
 ||532xcxypmpnp.com^
 ||5336767ccc.com^
-||539f346355.com^
 ||5475feaab.clicknplay.to^
 ||550a.com^
 ||550b3ikb9j.com^
@@ -63730,7 +63718,6 @@
 ||7mmtv.top^
 ||7nt9p4d4.de^
 ||7rjln8orgh.com^
-||7ry30.xyz^
 ||7search.com^
 ||7t56.com^
 ||7wind.ru^
@@ -68565,7 +68552,6 @@
 ||awstaticdn.net^
 ||awsurveys.com^
 ||awsync.yandex.ru^
-||awyebweybeqym.top^
 ||awyys.com^
 ||awzvpbg.com^
 ||ax.ifeng.com^
@@ -71644,7 +71630,6 @@
 ||chineseprovisionfeisty.com^
 ||chiningneoned.com^
 ||chinkerdough.com^
-||chinkleedestin.uno^
 ||chinoismoras.com^
 ||chinsedsauna.live^
 ||chioneflake.com^
@@ -72235,7 +72220,6 @@
 ||coalbagbices.website^
 ||coaphauk.net^
 ||coappreciate.com^
-||coaptedmissile.com^
 ||coaptjounces.guru^
 ||coashoog.com^
 ||coastlineahead.com^
@@ -80334,7 +80318,6 @@
 ||gumgum.com^
 ||gumlahdeprint.com^
 ||gummierhedera.life^
-||gunateddoucet.com^
 ||gunggo.com^
 ||gungpurre.com^
 ||gunksjalapic.com^
@@ -81541,7 +81524,6 @@
 ||hxcdyx.com^
 ||hxficbb.com^
 ||hxhohd.xyz^
-||hxhx9.cn^
 ||hxinitv.icu^
 ||hxles.top^
 ||hxoewq.com^
@@ -82698,7 +82680,6 @@
 ||iuou.ysw365.com^
 ||iupot.com^
 ||iutur-ixp.com^
-||iuvssgh.cn^
 ||iuwzdf.com^
 ||ivanvillager.com^
 ||ivedmanyyea.org^
@@ -85164,7 +85145,6 @@
 ||louse.seanconnolly.dev^
 ||louse.sigle.io^
 ||louses.net^
-||lousilytarwood.com^
 ||lousyfastened.com^
 ||loutedpewing.com^
 ||loutishsilents.com^
@@ -94718,7 +94698,6 @@
 ||serving-ad.tv24.vn^
 ||servingcdn.net^
 ||servinghandy.com^
-||serviusboxers.com^
 ||servote.de^
 ||servtraff97.com^
 ||servw.bid^
@@ -102392,13 +102371,7 @@
 ||www-banner.chat.ru^
 ||www-google-analytics.l.google.com^
 ||www.7-7-7-partner.com^
-||www.erutxdk.cn^
-||www.faldfeepabular.com^
-||www.goodbypph.com^
 ||www.inseeeldrich.com^
-||www.melagrapouty.com^
-||www.unducalbottle.com^
-||www.waspsflowers.com^
 ||www4.hentai-rpg.com^
 ||www4.hentaigamecg.com^
 ||www5.oss-cn-hangzhou.aliyuncs.com^
@@ -103583,7 +103556,6 @@
 ||zjo0tjqpm1.com^
 ||zjthzf.xyz^
 ||zk.91post.com^
-||zkawzmlvqjejy.top^
 ||zkbsvx.xyz^
 ||zkczzltlhp6y.com^
 ||zkdmdf.xyz^
@@ -103748,7 +103720,6 @@
 ||zypy2h6rgfux.com^
 ||zypzzv.xyz^
 ||zyrwfd.xyz^
-||zyzo.cn^
 ||zzfoms.com^
 ||zzhengre.com^
 ||zzrjdp.xyz^
