@@ -1,6 +1,6 @@
 !
 ! Title: Unified hosts Block
-! Last modified: 2023-11-14T02:06:07.985Z
+! Last modified: 2023-11-14T12:00:30.217Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -2081,6 +2081,7 @@
 ||aditserve.com^
 ||adivery.com^
 ||adjns.com^
+||fraud.adjoe.zone^
 ||adjuggler.net^
 ||adjuka.com^
 ||atom.adjust.com^
@@ -20909,6 +20910,7 @@
 ||giunews.com^
 ||giuwzmh.net^
 ||secure.give2hill.com^
+||givemelink.cc^
 ||givememmastreams.com^
 ||givevacation.com^
 ||gixhlii.xyz^
@@ -33390,6 +33392,7 @@
 ||onze-korting.com^
 ||oo000oo.club^
 ||ooegpip.cn^
+||ooejkd.xyz^
 ||oogala.com^
 ||oogleaamentum.com^
 ||ooh.li^
@@ -78990,7 +78993,6 @@
 ||frap.site^
 ||frapsguardo.com^
 ||frauck.com^
-||fraud.adjoe.zone^
 ||fraudholdingpeas.com^
 ||fraudmetrix.cn^
 ||frayedpause.com^
@@ -79133,7 +79135,6 @@
 ||fsalfrwdr.com^
 ||fsccafstr.com^
 ||fsdnp.cyou^
-||fsgiosi.com^
 ||fsm2.spiegel.de^
 ||fsmhub.icu^
 ||fsnpbh.xyz^
@@ -79829,7 +79830,6 @@
 ||gistblemishparking.com^
 ||gitoku.com^
 ||giulioarugola.com^
-||givemelink.cc^
 ||givemysoft.ru^
 ||givenconserve.com^
 ||givesthtosb.com^
@@ -83096,7 +83096,6 @@
 ||jc.licencearchean.com^
 ||jc1.dayfund.com.cn^
 ||jc32arlvqpv8.com^
-||jcbjcb9.cn^
 ||jchklt.com^
 ||jciwztfj.com^
 ||jcjzikj.xyz^
@@ -89087,7 +89086,6 @@
 ||oodrampi.com^
 ||oodsotso.com^
 ||ooeciumpokable.com^
-||ooejkd.xyz^
 ||ooeogk.xyz^
 ||oofteonaft.work^
 ||ooftounu.com^
@@ -98190,7 +98188,6 @@
 ||tfbulkidn.com^
 ||tfcdn.jingmiuyyds.com^
 ||tfcoverss.live^
-||tfczk.xyz^
 ||tffindmarket.live^
 ||tffkroute.com^
 ||tffulllist.shop^
@@ -102671,6 +102668,7 @@
 ||www-banner.chat.ru^
 ||www-google-analytics.l.google.com^
 ||www.7-7-7-partner.com^
+||www.ooejkd.xyz^
 ||www4.hentai-rpg.com^
 ||www4.hentaigamecg.com^
 ||www5.oss-cn-hangzhou.aliyuncs.com^
@@ -103928,7 +103926,6 @@
 ||zprelanding.com^
 ||zprelandings.com^
 ||zpsovpgyk.xyz^
-||zpvuugw.cn^
 ||zq.lansedir.com^
 ||zqfcndk.com^
 ||zqmmtbwqymhrru.com^
