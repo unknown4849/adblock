@@ -1,6 +1,6 @@
 !
 ! Title: Unified hosts Block
-! Last modified: 2023-12-05T12:00:15.124Z
+! Last modified: 2023-12-06T02:00:10.829Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -179459,6 +179459,7 @@
 ||a8.zzz-land.com^
 ||zzzperform.com^
 ||metric.zzzquil.com^
+||d2fnnovf9qvlf2.cloudfront.net^
 ||d25sca3heoa1so.cloudfront.net^
 ||d3u8vuldqjolr7.cloudfront.net^
 ||d2lzu2a5ishr7o.cloudfront.net^
