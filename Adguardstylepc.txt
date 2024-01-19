@@ -1,6 +1,6 @@
 !
 ! Title: Unified hosts Block
-! Last modified: 2024-01-19T02:00:12.870Z
+! Last modified: 2024-01-19T15:35:45.457Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -118914,7 +118914,6 @@
 ||powertools.nz^
 ||smetrics.powertracagri.com^
 ||powertraf.com^
-||app.powerwatch.io^
 ||poweyus.com^
 ||powferads.com^
 ||powjoui.com^
@@ -140539,7 +140538,6 @@
 ||tapdb.net^
 ||analytics.tapesupply.eu^
 ||analytics.shop.tapesupply.eu^
-||tapfiliate.com^
 ||tapgen.com^
 ||tapheetsat.com^
 ||tapi2.jp^
@@ -147137,8 +147135,6 @@
 ||ads-image.production-public.tubi.io^
 ||ads4.production-public.tubi.io^
 ||analytics-ingestion.production-public.tubi.io^
-||pixel.production-public.tubi.io^
-||pixel4.production-public.tubi.io^
 ||tuboaxen.com^
 ||cool.tubous.com^
 ||tubroaffs.org^
