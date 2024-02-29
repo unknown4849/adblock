@@ -1,6 +1,6 @@
 !
 ! Title: Unified hosts Block
-! Last modified: 2024-02-29T14:40:58.646Z
+! Last modified: 2024-02-29T14:42:14.162Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -67612,12 +67612,6 @@
 ||sadbmetrics.hoycinema.com^
 ||analytics.hoydigital.com^
 ||log-upload-os.hoyolab.com^
-||ad-log-upload-os.hoyoverse.com^
-||apm-log-upload-os.hoyoverse.com^
-||devlog-upload-os.hoyoverse.com^
-||hkrpg-log-upload-os.hoyoverse.com^
-||sg-public-data-api.hoyoverse.com^
-||ys-log-upload-os.hoyoverse.com^
 ||analytics.hoytrabajas.com^
 ||hozatr.xyz^
 ||hozoaxan.com^
