@@ -1,6 +1,6 @@
 !
 ! Title: Unified hosts Block
-! Last modified: 2024-03-14T05:32:08.053Z
+! Last modified: 2024-03-14T11:59:49.549Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -8973,7 +8973,6 @@
 ||metric.globalredir.akadns.net^
 ||microad.jp.akadns.net^
 ||metrics.akadns.net^
-||adlanding.admarketplace.net.akadns.net^
 ||ads.everesttech.net.akadns.net^
 ||ats.everesttech.net.akadns.net^
 ||cm.everesttech.net.akadns.net^
@@ -136822,6 +136821,7 @@
 ||a8.zzz-land.com^
 ||zzznews.ru^
 ||metric.zzzquil.com^
+||ad2win.com^
 ||ads.betweendigital.com^
 ||rec.deezer.com^
 ||ads.greengeeks.com^
