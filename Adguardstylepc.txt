@@ -1,6 +1,6 @@
 !
 ! Title: Unified hosts Block
-! Last modified: 2024-03-16T15:48:21.427Z
+! Last modified: 2024-03-17T01:59:00.052Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -54486,6 +54486,7 @@
 ||gaming-monster.de^
 ||gaming-plaza.shop^
 ||gaming-starter.de^
+||gaming-trending-news.com^
 ||ads.gaming-universe.de^
 ||gaming001.site^
 ||ads.gaming1.com^
@@ -74641,6 +74642,7 @@
 ||lifestreet.com^
 ||lifestreetmedia.com^
 ||smetrics.lifestride.com^
+||lifestyle-secrets-blog.com^
 ||analytics.lifestyledemocracy.com^
 ||c2.lifestyleguideusa.com^
 ||www.go.lifestylehealthmastery.com^
@@ -77456,7 +77458,6 @@
 ||top.mail.ru^
 ||top-fwz1.mail.ru^
 ||top-staging.mail.ru^
-||trk.mail.ru^
 ||wa.mail.com^
 ||xray.mail.ru^
 ||tr.mail-companeo.fr^
@@ -102708,6 +102709,7 @@
 ||rocketyield.com^
 ||swordtail.rockface.io^
 ||rockfellertest.com^
+||rocking-hollywood-news.com^
 ||mktg.rocklandmfg.com^
 ||rockmostbet.com^
 ||analytics.rocknroll-akrobatik.at^
@@ -134907,6 +134909,7 @@
 ||asia-exmagazineunlock-proxy.vivoglobal.com^
 ||asia-tipsstatic.vivoglobal.com^
 ||asia-tips.vivoglobal.com^
+||asia-magazineunlock.vivoglobal.com^
 ||id-main-appstore.vivoglobal.com^
 ||id-config-appstore.vivoglobal.com^
 ||id-update-appstore.vivoglobal.com^
