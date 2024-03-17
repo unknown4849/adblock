@@ -1,6 +1,6 @@
 !
 ! Title: Unified hosts Block
-! Last modified: 2024-03-17T01:59:00.052Z
+! Last modified: 2024-03-17T02:18:44.924Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -134909,7 +134909,7 @@
 ||asia-exmagazineunlock-proxy.vivoglobal.com^
 ||asia-tipsstatic.vivoglobal.com^
 ||asia-tips.vivoglobal.com^
-||asia-magazineunlock.vivoglobal.com^
 ||id-main-appstore.vivoglobal.com^
 ||id-config-appstore.vivoglobal.com^
 ||id-update-appstore.vivoglobal.com^
+||asia-magazineunlock.vivoglobal.com^
