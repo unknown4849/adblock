@@ -1,6 +1,6 @@
 !
 ! Title: Unified hosts Block
-! Last modified: 2024-07-27T14:28:20.110Z
+! Last modified: 2024-07-31T13:44:41.740Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -15748,7 +15748,6 @@
 ||coml7.pandora.xiaomi.com^
 ||de.pandora.xiaomi.com^
 ||dvb.pandora.xiaomi.com^
-||gallery.pandora.xiaomi.com^
 ||hook.gitv.pandora.xiaomi.com^
 ||ptmi.gitv.pandora.xiaomi.com^
 ||gstat.pandora.xiaomi.com^
@@ -20635,6 +20634,11 @@
 ||xlog16-normal-useast8.us.tiktokv.com^
 ||xlog16-platform-useast5.us.tiktokv.com^
 ||webcast-frontier22-alisg.tiktokv.com^
+||webcast-frontier22-normal-alisg.tiktokv.com^
+||webcast-frontier22-normal-useast1a.tiktokv.com^
+||webcast-frontier32-normal-alisg.tiktokv.com^
+||webcast-frontier32-normal-useast1a.tiktokv.com^
+||webcast-frontier32-normal-useast2a.tiktokv.com^
 ||xlog.tiktokv.com^
 ||xlog-ru.tiktokv.com^
 ||xlog-va.tiktokv.com^
