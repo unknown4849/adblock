@@ -1,6 +1,6 @@
 !
 ! Title: Unified hosts Block - HP
-! Last modified: 2025-03-17T14:42:02.727Z
+! Last modified: 2025-03-17T15:13:10.861Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -86180,7 +86180,6 @@
 ||xdcpfs.shopdoen.com^
 ||shopeasy.by^
 ||ccms.shopee.io^
-||dem.shopee.com^
 ||gybles.shopee.ph^
 ||df.infra.shopee.ph^
 ||df.infra.shopee.sg^
@@ -101582,18 +101581,19 @@
 ||mssdk.tiktokw.eu^
 ||mssdk.tiktokw.us^
 ||mssdk-ttp2.tiktokw.us^
+||content.garena.com^
 ||cdngarenanow-a.akamaihd.net^
-||vod.susercontent.com^
-||down-id.img.susercontent.com^
-||play-hw-src.livestream.shopee.co.id^
 ||down-ws-id.vod.susercontent.com^
 ||down-cvs-id.vod.susercontent.com^
-||sv.shopee.co.id^
+||dem.shopee.com^
 ||live.shopee.co.id^
 ||live-apm.shopee.co.id^
-||play-ws.vod.shopee.com^
+||play-hw-src.livestream.shopee.co.id^
+||play-zl-src.livestream.shopee.co.id^
+||play-ws-src.livestream.shopee.co.id^
 ||play-spe.livestream.shopee.co.id^
 ||play-tx-src.livestream.shopee.co.id^
+||play-ws.vod.shopee.com^
 ||qplay-sp.vod.susercontent.com^
-||play-ws-src.livestream.shopee.co.id^
-||content.garena.com^
+||sv.shopee.co.id^
+||vod.susercontent.com^
