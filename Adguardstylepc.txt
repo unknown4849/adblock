@@ -1,6 +1,6 @@
 !
 ! Title: Unified hosts Block - HP
-! Last modified: 2025-04-20T03:15:23.483Z
+! Last modified: 2025-04-20T12:30:57.308Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -7765,6 +7765,7 @@
 ||comms.isflive.org^
 ||comms.iss-shipping.com^
 ||comms.lexpress.fr^
+||comms.marketsource.com^
 ||comms.mccarthy.ca^
 ||commsplat-prod-bounce.squarespace.com^
 ||comms-sl-events.squarespace.com^
@@ -10511,6 +10512,7 @@
 ||go.envirosys.com^
 ||go.envistaforensics.com^
 ||go.epicbrokers.com^
+||go.epicor.com^
 ||go.epidemicsound.com^
 ||go.epiqglobal.com^
 ||go.epredia.com^
@@ -11360,6 +11362,7 @@
 ||go.ocearch.org^
 ||go.ocoeebikes.com^
 ||go.octaneoc.org^
+||go.octus.com^
 ||go.oculogica.com^
 ||gooddaysacramento.cbslocal.com^
 ||go.offerup.com^
@@ -22336,6 +22339,7 @@
 ||refer.keds.com^
 ||refer.kerastase-usa.com^
 ||refer.knixteen.com^
+||refer.lanebryant.com^
 ||refer.laroche-posay.us^
 ||refer.lauramercier.com^
 ||refer.lendingclub.com^
@@ -23047,6 +23051,7 @@
 ||share.hicapitalize.com^
 ||share.hotwire.com^
 ||share.hydropeptide.com^
+||share.iflyworld.com^
 ||share.iteach.net^
 ||share.jellybelly.com^
 ||share.judsonu.edu^
@@ -36591,7 +36596,6 @@ descargas2020.com##+js(acis, atob, _0x)
 ||023e6510cc.com^
 ||029519cbdc.com^
 ||0296.yokohama^
-||02hs.top^
 ||02ip.ru^
 ||0322cfmtl.cc^
 ||032o.com^
@@ -36625,7 +36629,6 @@ descargas2020.com##+js(acis, atob, _0x)
 ||07d0bc4a48.com^
 ||07dy.cc^
 ||08031fef00.com^
-||08082c0ad5.com^
 ||08256602.xyz^
 ||087tqb.cn^
 ||08916fb8f8.com^
@@ -36648,6 +36651,7 @@ descargas2020.com##+js(acis, atob, _0x)
 ||0c15ee8124.com^
 ||0c6be7f968.com^
 ||0cc29a3ac1.com^
+||0cdn.xyz^
 ||0cf.io^
 ||0d0705c152.com^
 ||0d076be0f4.com^
@@ -38151,7 +38155,6 @@ descargas2020.com##+js(acis, atob, _0x)
 ||3615407.xyz^
 ||3622911ae3.com^
 ||3625ggtp1.com^
-||33b39a6e93.3638f4360b.com^
 ||ads.365.mk^
 ||secure.365-bright-astute.com^
 ||365-syndicate.com^
@@ -41543,7 +41546,6 @@ descargas2020.com##+js(acis, atob, _0x)
 ||adtraxx.de^
 ||adtriba.com^
 ||adtrix.com^
-||adtrk21.com^
 ||adtrue.com^
 ||log.adtrue.vn^
 ||adtscriptshark.com^
@@ -42101,6 +42103,7 @@ descargas2020.com##+js(acis, atob, _0x)
 ||connect.afterpay.com^
 ||iq.afterpay.com^
 ||rsx.afterpay.com^
+||aftership-pixel.com^
 ||aftrk1.com^
 ||aftrk3.com^
 ||tag.aftvnews.com^
@@ -42260,7 +42263,6 @@ descargas2020.com##+js(acis, atob, _0x)
 ||agroeconom.kz^
 ||agrvt.com^
 ||agt.net^
-||agtamzsm.com^
 ||agtongagla.com^
 ||agtxhaombad.com^
 ||analytics.agu.org^
@@ -42316,7 +42318,6 @@ descargas2020.com##+js(acis, atob, _0x)
 ||ahotmail.com^
 ||matomo.prod.ahotu.com^
 ||ahporntube.com^
-||ahqatjakvac.com^
 ||ahqnijgiga.com^
 ||ahqovxli.com^
 ||analytics.ahrefs.com^
@@ -42598,7 +42599,6 @@ descargas2020.com##+js(acis, atob, _0x)
 ||ajaxcdn.org^
 ||ajcode.co^
 ||ajestigie.com^
-||ajghtafutjt.com^
 ||ajiang.net^
 ||ajillionmax.com^
 ||ajirkxs.cc^
@@ -45276,6 +45276,7 @@ descargas2020.com##+js(acis, atob, _0x)
 ||knymhv.ariat.com^
 ||arid-aside.com^
 ||ad.arietttouch.net^
+||arilsoaxie.xyz^
 ||arimogdjucslstc.com^
 ||ariosigruis.shop^
 ||ariotgribble.com^
@@ -45833,7 +45834,6 @@ descargas2020.com##+js(acis, atob, _0x)
 ||atprofessional.org^
 ||analytics.atptour.com^
 ||atraff.com^
-||atrafnopca.com^
 ||atraxio.com^
 ||tracking.atreemo.com^
 ||atriahatband.com^
@@ -45912,7 +45912,6 @@ descargas2020.com##+js(acis, atob, _0x)
 ||analytics.atwebmaker.net^
 ||atwola.com^
 ||atwpizpit.com^
-||atyoureatth.org^
 ||atype.jp^
 ||analytics.atypiccraft.com^
 ||atzhcjv.xyz^
@@ -46055,6 +46054,7 @@ descargas2020.com##+js(acis, atob, _0x)
 ||authognu.com^
 ||authoritiesemotional.com^
 ||verify.authorize.net^
+||authorizeddear.pro^
 ||autismstreet.org^
 ||analytics.auto.cz^
 ||matomo.auto-freydank.de^
@@ -46315,6 +46315,7 @@ descargas2020.com##+js(acis, atob, _0x)
 ||zws.avvo.com^
 ||avvxcexk.com^
 ||avvzamazdpa.com^
+||avwjyvwqyymm.top^
 ||avwjyvzeykor.top^
 ||avwjyvzeymmb.top^
 ||meds.avycaz.com^
@@ -46388,7 +46389,6 @@ descargas2020.com##+js(acis, atob, _0x)
 ||awlaxvnpyf.com^
 ||awldcupu.com^
 ||awljfawar.com^
-||awlkigoxropt.com^
 ||awlov.info^
 ||awltovhc.com^
 ||awmads.com^
@@ -46551,7 +46551,9 @@ descargas2020.com##+js(acis, atob, _0x)
 ||adsdkprod.azureedge.net^
 ||adsdkpreprod.afd.azureedge.net^
 ||adsdkprod.afd.azureedge.net^
+||fp-cdn.azureedge.net^
 ||imgvisilabsnet.azureedge.net^
+||loader-cdn.azureedge.net^
 ||masdpanalytics.azureedge.net^
 ||msadsscale.azureedge.net^
 ||sdtagging.azureedge.net^
@@ -46721,7 +46723,6 @@ descargas2020.com##+js(acis, atob, _0x)
 ||babylon.com^
 ||babyniceshark.com^
 ||babysittingrainyoffend.com^
-||bacaoroller.com^
 ||baccarat212.com^
 ||bacchuss.net^
 ||bachelorfondleenrapture.com^
@@ -47405,7 +47406,6 @@ descargas2020.com##+js(acis, atob, _0x)
 ||bcaakxxuf.com^
 ||bcab4297a6.com^
 ||bcaeurope.eu^
-||bcaojrbriciw.com^
 ||geoapi2.bcapps.org^
 ||bcash4you.com^
 ||smetrics.bcbsfl.com^
@@ -48143,6 +48143,7 @@ descargas2020.com##+js(acis, atob, _0x)
 ||nr.bidderstack.com^
 ||metrics.biddertmz.com^
 ||biddingfitful.com^
+||biddingos.com^
 ||biddingx.com^
 ||bidease.com^
 ||bideo-blog.com^
@@ -49185,13 +49186,11 @@ descargas2020.com##+js(acis, atob, _0x)
 ||bollyocean.com^
 ||bologuron.club^
 ||boloheavity.shop^
-||bolokaitsended.com^
 ||boloneyyogh.top^
 ||boloptrex.com^
 ||bolrookr.com^
 ||bolsaifoony.com^
 ||bolsek.ru^
-||bolsterate.net^
 ||analytics.bolt.com^
 ||bolt8snap.com^
 ||boltepse.com^
@@ -49378,6 +49377,7 @@ descargas2020.com##+js(acis, atob, _0x)
 ||bothepteha.pro^
 ||bothoorgoamsab.net^
 ||bothsemicolon.com^
+||bothwest.pro^
 ||botize.com^
 ||botman.ninja^
 ||botndm.nl^
@@ -50027,7 +50027,6 @@ descargas2020.com##+js(acis, atob, _0x)
 ||bshare.cn^
 ||bshrdr.com^
 ||bsilzzc.com^
-||bsizoia.com^
 ||events.bsky.app^
 ||bsmartdata.com^
 ||bssaly.com^
@@ -50255,7 +50254,6 @@ descargas2020.com##+js(acis, atob, _0x)
 ||analytics.burdadigital.cz^
 ||burdaffi.burdadigital.pl^
 ||bureautrickle.com^
-||buremanoici.net^
 ||buresdv.top^
 ||burger-imperia.com^
 ||burgeraphrite.top^
@@ -50665,7 +50663,6 @@ descargas2020.com##+js(acis, atob, _0x)
 ||caistireew.net^
 ||caitoasece.com^
 ||caiwauchegee.net^
-||caiwheechous.com^
 ||metrics.caixabank.es^
 ||tags.caixabank.es^
 ||apollo.caixin.com^
@@ -50682,6 +50679,7 @@ descargas2020.com##+js(acis, atob, _0x)
 ||pinggai9.caixin.com^
 ||promote.caixin.com^
 ||caizaipt.net^
+||caizutoh.xyz^
 ||cajangeurymus.com^
 ||cajbdciiefegiifciabc.world^
 ||cajoutigger.top^
@@ -51515,7 +51513,6 @@ descargas2020.com##+js(acis, atob, _0x)
 ||cdotrvjaiupk.com^
 ||cdp.asia^
 ||cdpoker.com^
-||cdqjmc.com^
 ||cdrvrs.com^
 ||cdsbnrs.com^
 ||cdtbox.rocks^
@@ -54656,6 +54653,7 @@ descargas2020.com##+js(acis, atob, _0x)
 ||clrstm.com^
 ||clrt.ai^
 ||clt20.com^
+||cltxmm.us^
 ||club-gagnant.online^
 ||club-kinogo.ru^
 ||tracker.club-os.com^
@@ -55727,7 +55725,6 @@ descargas2020.com##+js(acis, atob, _0x)
 ||smetrics.visiondirect.co.uk^
 ||analytics.vitalhub.co.uk^
 ||analytics.vitalitylondon10000.co.uk^
-||vitamincreative.co.za^
 ||vnlvxi.vivastreet.co.uk^
 ||analytics.vodafone.co.uk^
 ||smetrics.vodafone.co.uk^
@@ -56206,7 +56203,6 @@ descargas2020.com##+js(acis, atob, _0x)
 ||applepc.com.my^
 ||analytics.apps.com.tr^
 ||pixel.archipro.com.au^
-||arsmkt.com.br^
 ||asesoriasconfood.com.co^
 ||adproxy.autohome.com.cn^
 ||al.autohome.com.cn^
@@ -56410,7 +56406,6 @@ descargas2020.com##+js(acis, atob, _0x)
 ||tracking.gvm.com.tw^
 ||hacker.com.cn^
 ||hauchi.com.tw^
-||hebraicofacil.com.br^
 ||metrics.heraldsun.com.au^
 ||hexasoft.com.my^
 ||analytics.hipages.com.au^
@@ -56690,7 +56685,6 @@ descargas2020.com##+js(acis, atob, _0x)
 ||seomaster.com.br^
 ||serversmtp.com.br^
 ||sevensteel.com.tr^
-||sevenstreet.com.br^
 ||sexplay.com.ua^
 ||shareinstall.com.cn^
 ||shmetall.com.ua^
@@ -56851,6 +56845,7 @@ descargas2020.com##+js(acis, atob, _0x)
 ||upeex.com.br^
 ||uploaddeimagens.com.br^
 ||countly.vakifbank.com.tr^
+||vdbank.com.vn^
 ||viam.com.vn^
 ||analytics.videotecaead.com.br^
 ||adlog.vivo.com.cn^
@@ -57323,7 +57318,6 @@ descargas2020.com##+js(acis, atob, _0x)
 ||metrics.consumersadvocate.org^
 ||consumertrack.com^
 ||consumerzero.com^
-||consumodakir.top^
 ||contactmonkey.com^
 ||ping.contactpigeon.com^
 ||smetrics.contactsdirect.com^
@@ -58040,6 +58034,7 @@ descargas2020.com##+js(acis, atob, _0x)
 ||metrics.testnet.cream.finance^
 ||metrics.testnet-data.cream.finance^
 ||metrics.testnet-data083oregon.cream.finance^
+||creamyrolls.com^
 ||creandoespaciosmx.com^
 ||creaseinprofitst.com^
 ||createjav182.fun^
@@ -58748,6 +58743,7 @@ descargas2020.com##+js(acis, atob, _0x)
 ||d1a0c6affa.com^
 ||d1d0568e46.com^
 ||d1da55a0b9.com^
+||0c43ec936e.d1e223a9f2.com^
 ||d1f420dd98.com^
 ||d1f76eb5a4.com^
 ||d1tracker.ru^
@@ -58796,6 +58792,7 @@ descargas2020.com##+js(acis, atob, _0x)
 ||webtr.dachser.com^
 ||dacllads.com^
 ||dacmaiss.com^
+||dacmursaiz.xyz^
 ||dacpibaqwsa.com^
 ||dad524dd40.com^
 ||dadalytics.it^
@@ -62329,6 +62326,7 @@ descargas2020.com##+js(acis, atob, _0x)
 ||do-global.com^
 ||do09.net^
 ||do4dude.com^
+||do7go.com^
 ||doaffiliate.net^
 ||doanaudabu.net^
 ||doanegrantthornton.ca^
@@ -62532,7 +62530,6 @@ descargas2020.com##+js(acis, atob, _0x)
 ||dopaleads.com^
 ||dopansearor.com^
 ||dope.autos^
-||dope.rest^
 ||dope88.com^
 ||dopeblackfriday.shop^
 ||dopklb.xyz^
@@ -62955,7 +62952,6 @@ descargas2020.com##+js(acis, atob, _0x)
 ||dreary-hunt.com^
 ||rss.drecom.jp^
 ||dreiquksz.com^
-||drem.site^
 ||drenastheycam.com^
 ||drenchsealed.com^
 ||dresserfindparlour.com^
@@ -64267,7 +64263,6 @@ descargas2020.com##+js(acis, atob, _0x)
 ||ehqaobjhna.com^
 ||metrics.ehrenkind.de^
 ||ehrydnmdoe.com^
-||ehuhaikrouzibs.net^
 ||ehutzaug.life^
 ||ehzggd.com^
 ||ei1s7b.cn^
@@ -64391,7 +64386,6 @@ descargas2020.com##+js(acis, atob, _0x)
 ||electricalglimmerexasperate.com^
 ||electricalsedate.com^
 ||electricalyellincreasing.com^
-||electricbeatdj.com^
 ||t.electricgeneratorsdirect.com^
 ||sst.electriclove.at^
 ||gtm.electrolux.be^
@@ -64964,7 +64958,6 @@ descargas2020.com##+js(acis, atob, _0x)
 ||tracking.epicgames.com^
 ||epicgames-store.org^
 ||epicoldschool.com^
-||go.epicor.com^
 ||epicpotec.com^
 ||analytics.epicroadrides.com^
 ||ewalxb.epicsports.com^
@@ -65053,6 +65046,7 @@ descargas2020.com##+js(acis, atob, _0x)
 ||metrics.erau.edu^
 ||eravesofefineg.info^
 ||eravesofefinegoldf.com^
+||eravprvvqqc.xyz^
 ||qos.ercdn.com^
 ||ercmkzq.cc^
 ||ercockremarke.org^
@@ -67087,7 +67081,6 @@ descargas2020.com##+js(acis, atob, _0x)
 ||flash-counter.com^
 ||flashadtools.com^
 ||flashb.id^
-||flashbannernow.com^
 ||ads.flashbid.io^
 ||flashgroup.com^
 ||flashingnicer.com^
@@ -67179,7 +67172,6 @@ descargas2020.com##+js(acis, atob, _0x)
 ||flirtanu.com^
 ||flirtatiousconsultyoung.com^
 ||flirtcafe.de^
-||flirtgirles-romances.com^
 ||flirtmatch.se^
 ||flirtmoms.com^
 ||flirttime.com^
@@ -67293,7 +67285,6 @@ descargas2020.com##+js(acis, atob, _0x)
 ||flux-g.com^
 ||fluxads.com^
 ||fluxiontabific.shop^
-||flwplayer.com^
 ||c.flx1.com^
 ||k3vzn.flx10.com^
 ||flxpxl.com^
@@ -67335,6 +67326,7 @@ descargas2020.com##+js(acis, atob, _0x)
 ||matomo.flytoday.ir^
 ||flytonearstation.com^
 ||fm-p.jp^
+||fmapiosb.xyz^
 ||analytics.fmc-ag.com^
 ||fmhyysk.com^
 ||fmiafsohcku.com^
@@ -67411,7 +67403,6 @@ descargas2020.com##+js(acis, atob, _0x)
 ||folbwkw.com^
 ||foldedaddress.com^
 ||foldedprevent.com^
-||foldinsinuate.com^
 ||facemap.foldlife.net^
 ||foldymuist.shop^
 ||analytics.foleon.com^
@@ -67872,7 +67863,6 @@ descargas2020.com##+js(acis, atob, _0x)
 ||frap.site^
 ||posthog.frappe.cloud^
 ||frase.io^
-||fratstepefy.com^
 ||fraud0.com^
 ||fraudjs.io^
 ||fraudmetrix.cn^
@@ -67959,6 +67949,7 @@ descargas2020.com##+js(acis, atob, _0x)
 ||srepdata.freep.com^
 ||sxjfhh.freep.com^
 ||freepay.com^
+||freepccrack.com^
 ||freepccracks.com^
 ||log.freepdfreaderzone.live^
 ||freepopnews.skin^
@@ -68380,7 +68371,6 @@ descargas2020.com##+js(acis, atob, _0x)
 ||revive.futuro.hr^
 ||smetrics.futuro.cl^
 ||fuvvgziqxmsrg.rocks^
-||fuwalrnce.com^
 ||fuwomhcumac.com^
 ||fuyhvgvvhyp.com^
 ||fuyviz.com^
@@ -68512,6 +68502,7 @@ descargas2020.com##+js(acis, atob, _0x)
 ||mmod.v.fwmrm.net^
 ||fwpixel.com^
 ||fwpub1.com^
+||fwqmwyuokcyvom.xyz^
 ||frbmdx.fwrd.com^
 ||fwsfwef2.fun^
 ||fwtrck.com^
@@ -68658,7 +68649,6 @@ descargas2020.com##+js(acis, atob, _0x)
 ||gaipochipsefoud.net^
 ||gaipuzui.com^
 ||gaitcubicle.com^
-||gaiwhouvile.com^
 ||gaizoopi.net^
 ||gajoytoworkwith.com^
 ||gakrarsabamt.net^
@@ -69337,6 +69327,7 @@ descargas2020.com##+js(acis, atob, _0x)
 ||germmasonportfolio.com^
 ||matomo.gers.fr^
 ||gesanbarrat.com^
+||gesas.it^
 ||gesdxashb1.fun^
 ||gessdashb6.fun^
 ||gessiptoab.net^
@@ -69513,7 +69504,6 @@ descargas2020.com##+js(acis, atob, _0x)
 ||getui.com^
 ||getui.net^
 ||pixel.getutintsofthe.org^
-||getvbucks.xyz^
 ||getviously.com^
 ||getwebdiscover.com^
 ||getwebdoctor.com^
@@ -69583,6 +69573,7 @@ descargas2020.com##+js(acis, atob, _0x)
 ||ghhidmrlpiogcg.com^
 ||ghjedashb6.fun^
 ||ghlyrecomemurg.com^
+||ghnvfncbleiu.xyz^
 ||t.ghostboard.io^
 ||aiqx.ghostbusters.com^
 ||anonymous-communication.ghostery.net^
@@ -69815,6 +69806,7 @@ descargas2020.com##+js(acis, atob, _0x)
 ||gkaosmmuso.com^
 ||gkbhrj49a.com^
 ||gkcltxp.com^
+||gkdafpdmiwwd.xyz^
 ||gkeolwi.icu^
 ||gklox.cn^
 ||gkrtmc.com^
@@ -69935,7 +69927,6 @@ descargas2020.com##+js(acis, atob, _0x)
 ||glitteringbrook.com^
 ||glitteringunavoidable.com^
 ||glizauvo.net^
-||glizoakri.net^
 ||gloacmug.net^
 ||gloaphoo.net^
 ||gloardaigrith.com^
@@ -70165,7 +70156,6 @@ descargas2020.com##+js(acis, atob, _0x)
 ||go-g3t-s0me.com^
 ||go-g3t-s0me.net^
 ||go-g3t-som3.com^
-||go-get-s0me.com^
 ||c.go-mpulse.net^
 ||s.go-mpulse.net^
 ||s2.go-mpulse.net^
@@ -70380,7 +70370,7 @@ descargas2020.com##+js(acis, atob, _0x)
 ||ads.golem.de^
 ||cpx.golem.de^
 ||cpxl.golem.de^
-||tracker.remp-beam.golem.de^
+||remp-beam.golem.de^
 ||remp-campaign.golem.de^
 ||log.prod.golf-rival.com^
 ||plausible.golfbreaks.com^
@@ -70984,6 +70974,7 @@ descargas2020.com##+js(acis, atob, _0x)
 ||greatdexchange.com^
 ||smetrics.greatland.com^
 ||greatlifebargains2024.com^
+||greatnessappreviews.com^
 ||greatnessmuffled.com^
 ||greatnewplaces.com^
 ||analytics.greatvaluevacations.com^
@@ -71077,7 +71068,6 @@ descargas2020.com##+js(acis, atob, _0x)
 ||greystripe.com^
 ||grfblurrer.top^
 ||grfpr.com^
-||gribeorlneka.net^
 ||gricechupon.top^
 ||gridder.co^
 ||gridedloamily.top^
@@ -71250,6 +71240,7 @@ descargas2020.com##+js(acis, atob, _0x)
 ||grygrothapi.pro^
 ||gs-ad.jp^
 ||metrics.gs-chat.com^
+||events.gs1-germany.de^
 ||smetrics.gs1us.org^
 ||gsadserver.de^
 ||gsanet.com^
@@ -71345,7 +71336,6 @@ descargas2020.com##+js(acis, atob, _0x)
 ||guesswhatnews.com^
 ||jrucbb.guestreservations.com^
 ||guestsfingertipchristian.com^
-||guhalxqa.com^
 ||guhomnfuzq.com^
 ||guhscaafjp.com^
 ||gui789.xyz^
@@ -71354,6 +71344,7 @@ descargas2020.com##+js(acis, atob, _0x)
 ||guidecent.com^
 ||consulting.guidehouse.com^
 ||countly.guidemefast.com^
+||guidepaparazzisurface.com^
 ||guidesite.info^
 ||widgets.guidestar.org^
 ||guifudi.com^
@@ -71469,7 +71460,6 @@ descargas2020.com##+js(acis, atob, _0x)
 ||gwryfkd.cc^
 ||gwtixda.com^
 ||gwxcloud.com^
-||gwyvusam.com^
 ||gx101.com^
 ||gxdzfyg.com^
 ||gxfh59u4.xyz^
@@ -71569,6 +71559,7 @@ descargas2020.com##+js(acis, atob, _0x)
 ||hackmeout.net^
 ||metrics.hacknowledge.ch^
 ||piwik.hacon.de^
+||hacx60.com^
 ||haderilovas.com^
 ||hadmiredinde.info^
 ||hadronid.net^
@@ -72253,6 +72244,7 @@ descargas2020.com##+js(acis, atob, _0x)
 ||henghost.com^
 ||hengradualtroops.com^
 ||henqnv.top^
+||henslotasia.com^
 ||hentai-heroes.com^
 ||hentaibaka.one^
 ||creative.hentaicams.xxx^
@@ -72580,7 +72572,6 @@ descargas2020.com##+js(acis, atob, _0x)
 ||hhooyivpxq.com^
 ||hhoqipmup.com^
 ||hhorkypapnri.com^
-||hhppzkhurf.com^
 ||hhrerv.xyz^
 ||hhuobnajd.com^
 ||hhuohqramjit.com^
@@ -72626,7 +72617,6 @@ descargas2020.com##+js(acis, atob, _0x)
 ||metrics.hidglobal.com^
 ||hidgttxnces.com^
 ||hidingenious.com^
-||hidlessonana.com^
 ||collector.hifiklubben.de^
 ||collector.hifiklubben.dk^
 ||collector.hifiklubben.nl^
@@ -73772,7 +73762,7 @@ descargas2020.com##+js(acis, atob, _0x)
 ||hwilmiu.top^
 ||hwltbkcaknjderbpsklu.com^
 ||hwpnocpctu.com^
-||hwqloan.com^
+||www.hwqloan.com^
 ||hwtadf.icu^
 ||hwufmoocnkha.com^
 ||hwurseru.top^
@@ -74219,7 +74209,6 @@ descargas2020.com##+js(acis, atob, _0x)
 ||analytics.iflysouthern.com^
 ||log.iflytek.com^
 ||logconf.iflytek.com^
-||share.iflyworld.com^
 ||ifmccdn.icu^
 ||research.ifmo.ru^
 ||di.ifolor.ch^
@@ -74394,6 +74383,7 @@ descargas2020.com##+js(acis, atob, _0x)
 ||metrics.ilearntoboat.com^
 ||ileeckut.com^
 ||joda.ilgazzettino.it^
+||ilgihastanesi.com^
 ||ctdfm.ilgiornale.it^
 ||ilgtauox.com^
 ||ili.net^
@@ -74495,7 +74485,6 @@ descargas2020.com##+js(acis, atob, _0x)
 ||imbet.site^
 ||imcdn.pro^
 ||imcod.net^
-||imcodec.com^
 ||imcounter.com^
 ||imcounting.com^
 ||metrics.imdb.com^
@@ -74694,7 +74683,6 @@ descargas2020.com##+js(acis, atob, _0x)
 ||improvely.com^
 ||impruads.com^
 ||impulselumber.com^
-||impulserush.com^
 ||ads.impulsosocial.online^
 ||impureattirebaking.com^
 ||imr.sk^
@@ -75079,6 +75067,7 @@ descargas2020.com##+js(acis, atob, _0x)
 ||injectshrslinkblog.com^
 ||injuredripplegentleman.com^
 ||injuryglidejovial.com^
+||cookiebot.inkarnate.com^
 ||air.inkeep.com^
 ||inkfeedmausoleum.com^
 ||open.inkfrog.com^
@@ -76784,6 +76773,7 @@ descargas2020.com##+js(acis, atob, _0x)
 ||jmgads.com^
 ||jmipzsn.icu^
 ||jmlk.co^
+||jmopproojsc.xyz^
 ||telemetry.jmp.com^
 ||jmpmedia.club^
 ||jmpobmyte.com^
@@ -77182,7 +77172,6 @@ descargas2020.com##+js(acis, atob, _0x)
 ||analytics.justbid.com^
 ||justclick.ru^
 ||track.justcloud.com^
-||justcount.net^
 ||justcovaqod.com^
 ||analytics.justdone.ai^
 ||justearn.it^
@@ -77264,6 +77253,7 @@ descargas2020.com##+js(acis, atob, _0x)
 ||jy08.shop^
 ||jy09.shop^
 ||jy135.com^
+||jybaekaqbmmmb.top^
 ||jybaekaqbmwmq.top^
 ||jycrjkuspyv.fun^
 ||jydhqvvacwij.com^
@@ -77315,7 +77305,6 @@ descargas2020.com##+js(acis, atob, _0x)
 ||kabakamarbles.top^
 ||kabbalah-red-bracelets.com^
 ||kabooo.net^
-||kaceetech.com^
 ||kacukrunitsoo.net^
 ||kacvpeatzlro.com^
 ||kadam.net^
@@ -77747,7 +77736,6 @@ descargas2020.com##+js(acis, atob, _0x)
 ||kgymoc.xyz^
 ||api-exponea.kh.hu^
 ||kh-bkcvqxc.online^
-||khaate.com^
 ||khanate.pro^
 ||khangalenten.click^
 ||khanjeeyapness.website^
@@ -77840,6 +77828,7 @@ descargas2020.com##+js(acis, atob, _0x)
 ||kindleunfocusedunpaired.com^
 ||kindlyoutsellunderling.com^
 ||kindnessmarshalping.com^
+||kindofwelcomeperspective.com^
 ||kindredplc.com^
 ||kineckekyu.com^
 ||kinecko.com^
@@ -77919,7 +77908,7 @@ descargas2020.com##+js(acis, atob, _0x)
 ||kitarclouds.top^
 ||kitbit.net^
 ||kitrigthy.com^
-||kittensuccessful.com^
+||www.kittensuccessful.com^
 ||analytics.kittl.com^
 ||analytics.kittysoloma.org^
 ||x8.kitunebi.com^
@@ -77939,7 +77928,6 @@ descargas2020.com##+js(acis, atob, _0x)
 ||kixer.com^
 ||kixestalsie.net^
 ||kixfuvmhibuk.com^
-||kixgpapwia.com^
 ||kiyala.uno^
 ||kiynew.com^
 ||kiyoh.com^
@@ -78306,7 +78294,6 @@ descargas2020.com##+js(acis, atob, _0x)
 ||metrics.kravenmovie.com^
 ||krbulhb.com^
 ||utiq.kreiszeitung.de^
-||krekspeksfeks.net^
 ||kreopbkabsit.com^
 ||ads.krestandnes.cz^
 ||kringrdrct.com^
@@ -78618,7 +78605,6 @@ descargas2020.com##+js(acis, atob, _0x)
 ||kwizbot.io^
 ||kwizzu.com^
 ||pages.kwm.com^
-||kworks.store^
 ||kwqmugaonqtqa.com^
 ||kwtmhuvkpmcsog.com^
 ||kwtnhdrmbx.com^
@@ -78853,7 +78839,6 @@ descargas2020.com##+js(acis, atob, _0x)
 ||sgtm.landwirt.com^
 ||lane5down.com^
 ||ffuodj.lanebryant.com^
-||refer.lanebryant.com^
 ||smetrics.lanebryant.com^
 ||lanesusanne.com^
 ||laneyounger.com^
@@ -79325,7 +79310,6 @@ descargas2020.com##+js(acis, atob, _0x)
 ||banners.leightonbroadcasting.com^
 ||cdn.leightonbroadcasting.com^
 ||leiki.com^
-||leikovoleikamarada.com^
 ||ads-api-o.api.leiniao.com^
 ||euads-o.api.leiniao.com^
 ||data.leipzig.de^
@@ -79524,7 +79508,6 @@ descargas2020.com##+js(acis, atob, _0x)
 ||metrics.leybold.com^
 ||matomo.leyton.com^
 ||lezbiyanki.net^
-||leztc.com^
 ||lezzyporn.com^
 ||lfakutozqax.com^
 ||lfdisicuttrod.rocks^
@@ -80118,7 +80101,7 @@ descargas2020.com##+js(acis, atob, _0x)
 ||analytics.livefootballtickets.com^
 ||livegeaster.shop^
 ||newbrowse.livehelper.com^
-||livehost.live^
+||www.livehost.live^
 ||liveintent.com^
 ||img0.liveinternet.ru^
 ||wiki.liveinternet.ru^
@@ -80817,7 +80800,7 @@ descargas2020.com##+js(acis, atob, _0x)
 ||luckackaftout.net^
 ||luckaltute.net^
 ||luckilyhurry.com^
-||lucklayed.info^
+||www.lucklayed.info^
 ||lucksvip.cfd^
 ||lucksvip.qpon^
 ||lucksvip06.com^
@@ -80882,7 +80865,6 @@ descargas2020.com##+js(acis, atob, _0x)
 ||lum-sdk.io^
 ||posthog.prod.lumafield.com^
 ||lumberperpetual.com^
-||lumbersmile.icu^
 ||ametrics.lumen.com^
 ||analytics.lumesis.com^
 ||lumex.space^
@@ -81514,9 +81496,11 @@ descargas2020.com##+js(acis, atob, _0x)
 ||tmserverside.mango.com^
 ||dct.mango-office.ru^
 ||widgets.mango-office.ru^
+||mangoa.xyz^
 ||mangoads.net^
 ||mangomob.net^
 ||mangrao.club^
+||mangtaoxa.xyz^
 ||smetrics.manheim.com^
 ||bi.manhuaren.com^
 ||maniasensiblecompound.com^
@@ -81810,7 +81794,6 @@ descargas2020.com##+js(acis, atob, _0x)
 ||marketshot.com^
 ||marketshot.fr^
 ||analytics.marketsmedia.com^
-||comms.marketsource.com^
 ||marketspiders.com^
 ||marketview.com^
 ||logging-api.markitdigital.com^
@@ -82861,7 +82844,6 @@ descargas2020.com##+js(acis, atob, _0x)
 ||mgc-games.com^
 ||mgcash.com^
 ||mgdjmp.com^
-||mghezaxh.com^
 ||mghkpg.com^
 ||mgid.com^
 ||mgidskix.top^
@@ -83343,7 +83325,6 @@ descargas2020.com##+js(acis, atob, _0x)
 ||misgyeflative.top^
 ||miskenish.com^
 ||mislaidshakos.shop^
-||misppitr.com^
 ||misputidemetome.com^
 ||missaffiliate.com^
 ||creative.live.missav.com^
@@ -84145,6 +84126,7 @@ descargas2020.com##+js(acis, atob, _0x)
 ||moryou.com^
 ||mos.com^
 ||metrika.mos.ru^
+||mstat.mos.ru^
 ||stats.mos.ru^
 ||mosaefr.cc^
 ||mosangkeji.com^
@@ -84574,7 +84556,6 @@ descargas2020.com##+js(acis, atob, _0x)
 ||muchooltoarsie.net^
 ||mucinyak.com^
 ||muckilywayback.top^
-||mucnmtx.top^
 ||mucu.jp^
 ||mucvvcbqrwfmir.com^
 ||mudacban.com^
@@ -84605,7 +84586,6 @@ descargas2020.com##+js(acis, atob, _0x)
 ||analytics-ingest.anypoint.mulesoft.com^
 ||metric.mulesoft.com^
 ||mulleyrewayle.com^
-||mullvaad.net^
 ||multi-feeds.com^
 ||multi-pixels.com^
 ||multiadblock.com^
@@ -85579,6 +85559,7 @@ descargas2020.com##+js(acis, atob, _0x)
 ||nbedwwb.in^
 ||nbmramf.de^
 ||nbottkauyy.com^
+||nbragzui.com^
 ||nbryb.com^
 ||analytics.nbsp.de^
 ||matomo.eks-dev-2022.nc-acceptance.com^
@@ -86573,8 +86554,6 @@ descargas2020.com##+js(acis, atob, _0x)
 ||no2veeamggaseber.com^
 ||noapsovochu.net^
 ||noarefocoush.com^
-||noasuonmeg.net^
-||noaviphesh.net^
 ||noawanincreasein.com^
 ||nobby.game^
 ||matomo.nobiadigital.com^
@@ -87288,7 +87267,6 @@ descargas2020.com##+js(acis, atob, _0x)
 ||oaajylbosyndpjl.com^
 ||oaapfztunpmky.vip^
 ||oabaubsutha.com^
-||oabsickot.net^
 ||oackoubs.com^
 ||oaclrst.cn^
 ||media.oadts.com^
@@ -87484,7 +87462,6 @@ descargas2020.com##+js(acis, atob, _0x)
 ||octotracker-clients.net^
 ||octotracking.com^
 ||octroinewings.shop^
-||go.octus.com^
 ||metric.intern.oculus.com^
 ||ocxxx.com^
 ||ocypetediplont.shop^
@@ -87493,7 +87470,6 @@ descargas2020.com##+js(acis, atob, _0x)
 ||odalrevaursartu.net^
 ||ea.odalys-vacances.com^
 ||odamcsk.top^
-||odcatfvt.com^
 ||odchpubtaop.com^
 ||odcomlkfin.com^
 ||oddball-contact.pro^
@@ -87662,8 +87638,6 @@ descargas2020.com##+js(acis, atob, _0x)
 ||ofklefkian.com^
 ||ofleafeona.com^
 ||ofnac.sn^
-||ofnuxnwaxhmxsv.com^
-||ofplredpogw.com^
 ||ofpmadgfo.com^
 ||ofredirect.com^
 ||ofrsrv.com^
@@ -90737,11 +90711,9 @@ descargas2020.com##+js(acis, atob, _0x)
 ||osgabcqk.com^
 ||osgocjadfa.com^
 ||osgsijvkoap.com^
-||osgttexzo.com^
 ||oshanixot.com^
 ||oshaq.top^
 ||osharvrziafx.com^
-||oshidefender.com^
 ||osiaffiliate.com^
 ||osiq.club^
 ||ositracker.com^
@@ -92545,7 +92517,6 @@ descargas2020.com##+js(acis, atob, _0x)
 ||phukienthoitranggiare.com^
 ||phumpauk.com^
 ||phumsise.com^
-||phunkrepmchksx.xyz^
 ||adm.phunusuckhoe.vn^
 ||tracker.phunusuckhoe.vn^
 ||adm.phunuvagiadinh.vn^
@@ -92747,7 +92718,6 @@ descargas2020.com##+js(acis, atob, _0x)
 ||piquantpigs.com^
 ||piquantvortex.com^
 ||piqueendogen.com^
-||piqvibcimav.com^
 ||metric.piraeusbank.ua^
 ||piranho.com^
 ||piranho.de^
@@ -93180,7 +93150,6 @@ descargas2020.com##+js(acis, atob, _0x)
 ||c.plerdy.com^
 ||tracker.plerdy.com^
 ||srv.plesk.com^
-||plewhocaabo.org^
 ||analytics.plex.tv^
 ||plexop.com^
 ||plexop.net^
@@ -93961,7 +93930,6 @@ descargas2020.com##+js(acis, atob, _0x)
 ||rc.precisely.com^
 ||precisethrobbingsentinel.com^
 ||precisioncounter.com^
-||precisiongraphx.com^
 ||precismo.com^
 ||preciso.net^
 ||preclknu.com^
@@ -94931,7 +94899,6 @@ descargas2020.com##+js(acis, atob, _0x)
 ||pulvinioreodon.com^
 ||tybfxw.puma.com^
 ||pumasjlu.com^
-||pumorcavxxz.com^
 ||pump.to^
 ||pump8walk.com^
 ||pumpedpancake.com^
@@ -94961,7 +94928,6 @@ descargas2020.com##+js(acis, atob, _0x)
 ||assets.purch.com^
 ||purchase-shop.com^
 ||purchasefertilised.com^
-||purchaselock.com^
 ||tracking.purchasely.io^
 ||smetrics.purchasingpower.com^
 ||ykxfoj.purchasingpower.com^
@@ -95637,7 +95603,7 @@ descargas2020.com##+js(acis, atob, _0x)
 ||countly.server.qapitalapp.net^
 ||analytics.clicker.qappi.com^
 ||qarhrytwyqp.com^
-||qasforsalesrep.info^
+||www.qasforsalesrep.info^
 ||qashbits.com^
 ||qasqs.com^
 ||smetrics.qatarairways.com^
@@ -96117,6 +96083,7 @@ descargas2020.com##+js(acis, atob, _0x)
 ||quahl.com^
 ||quaintcan.com^
 ||quaintmembershipprobably.com^
+||quaizoa.xyz^
 ||qualaroo.com^
 ||analytics.qualcomm.com^
 ||metrics.qualer.com^
@@ -96236,7 +96203,7 @@ descargas2020.com##+js(acis, atob, _0x)
 ||quickbrowsersearch.com^
 ||quickdiff.com^
 ||quickdriverupdater.com^
-||quickerapparently.com^
+||www.quickerapparently.com^
 ||quickflirt.com^
 ||quickforgivenesssplit.com^
 ||quickieboilingplayground.com^
@@ -96525,7 +96492,6 @@ descargas2020.com##+js(acis, atob, _0x)
 ||ragwviw.com^
 ||countly.rahkar.team^
 ||text.rahmenvereinbarungen.de^
-||raidustiphauvy.net^
 ||matomo.raiffeisenbank.rs^
 ||raikijausa.net^
 ||matomo.rail.cc^
@@ -97031,7 +96997,7 @@ descargas2020.com##+js(acis, atob, _0x)
 ||recentteem.com^
 ||receptiongrimoddly.com^
 ||receptivereaction.com^
-||api.receptivity.io^
+||receptivity.io^
 ||analytics.recepty.cz^
 ||recessionspeaksanybody.com^
 ||recessrain.com^
@@ -97345,7 +97311,6 @@ descargas2020.com##+js(acis, atob, _0x)
 ||t.regionsjob.com^
 ||j198.registercitizen.com^
 ||registration423.fun^
-||registrycleanertechnology.com^
 ||regiveshollas.shop^
 ||ux.regretshansom.shop^
 ||regretuneasy.com^
@@ -98894,7 +98859,6 @@ descargas2020.com##+js(acis, atob, _0x)
 ||sanity-dataplane.rudderstack.com^
 ||ruddy-boyfriend.com^
 ||ruddyred.pro^
-||rude-son.com^
 ||rudishtremolo.top^
 ||discovery.rudo.video^
 ||ruefulauthorizedguarded.com^
@@ -98915,7 +98879,6 @@ descargas2020.com##+js(acis, atob, _0x)
 ||ruinedpersonnel.com^
 ||ruinjan.com^
 ||rukanw.com^
-||ruklibamj.com^
 ||rukplaza.com^
 ||rukskijruza.com^
 ||rukxnkfjxge.com^
@@ -99424,7 +99387,6 @@ descargas2020.com##+js(acis, atob, _0x)
 ||hub5pn.wap.sandai.net^
 ||etl.xlmc.sandai.net^
 ||analytics.e.sandalsmailings.com^
-||sandboxenvironmnetal.com^
 ||sgtm.sandboxvr.com^
 ||sandelf.com^
 ||update.sandiego.org^
@@ -101267,7 +101229,6 @@ descargas2020.com##+js(acis, atob, _0x)
 ||showybrief.pro^
 ||shpee.eco^
 ||shpg.org^
-||shproud.com^
 ||shredassortmentmood.com^
 ||shredquiz.com^
 ||shreesacredsounds.com^
@@ -102718,7 +102679,6 @@ descargas2020.com##+js(acis, atob, _0x)
 ||sorningdaroo.top^
 ||sorrowconstellation.com^
 ||sorrowful-interest.com^
-||sorrowfulcredit.pro^
 ||sorrowfulname.pro^
 ||sorryfearknockout.com^
 ||sorryglossywimp.com^
@@ -104519,7 +104479,7 @@ descargas2020.com##+js(acis, atob, _0x)
 ||supportiverarity.com^
 ||analytics.supportlogic.com^
 ||supportresentbritish.com^
-||supportsentparticle.com^
+||www.supportsentparticle.com^
 ||supportstudent.link^
 ||app.supportthecats.com^
 ||supportwaves.com^
@@ -104601,7 +104561,7 @@ descargas2020.com##+js(acis, atob, _0x)
 ||susmovies.lol^
 ||suspectedadvisor.com^
 ||suspectmark.com^
-||suspectplainrevulsion.com^
+||www.suspectplainrevulsion.com^
 ||suspectunfortunateblameless.com^
 ||suspendedjetthus.com^
 ||suspensionstorykeel.com^
@@ -105300,7 +105260,6 @@ descargas2020.com##+js(acis, atob, _0x)
 ||tapdaq.com^
 ||tapdb.com^
 ||tapdb.net^
-||thumb.tapecontent.net^
 ||taperlyiuds.com^
 ||tapestrygenus.com^
 ||tapestrymob.com^
@@ -105509,7 +105468,9 @@ descargas2020.com##+js(acis, atob, _0x)
 ||tdkd02.com^
 ||tdkd03.com^
 ||tdko.com^
+||tdkt00.com^
 ||tdkt01.com^
+||tdkt07.com^
 ||tdmy.com^
 ||analytics.tdnetdiscover.com^
 ||tdniigxiuvyaafv.com^
@@ -105874,6 +105835,7 @@ descargas2020.com##+js(acis, atob, _0x)
 ||tenjin.io^
 ||track.tenjin.com^
 ||tenkeiya.com^
+||www.tenlineunden.uno^
 ||tenmax.io^
 ||tenmei-michibiki.com^
 ||tenmoney.business^
@@ -105956,7 +105918,6 @@ descargas2020.com##+js(acis, atob, _0x)
 ||stiwa.test.de^
 ||test-ads.com^
 ||metrics.test-socrata.com^
-||testbuddy.biz^
 ||testcede.com^
 ||metric.testfairy.com^
 ||testin.cn^
@@ -106081,7 +106042,6 @@ descargas2020.com##+js(acis, atob, _0x)
 ||thanksgivingtamepending.com^
 ||metrics1.thankyou.com^
 ||thanosofcos5.com^
-||tharbadir.com^
 ||thargookroge.net^
 ||thatbeefysit.com^
 ||thatmonkeybites3.com^
@@ -106912,7 +106872,6 @@ descargas2020.com##+js(acis, atob, _0x)
 ||tkiogpzandke.com^
 ||tkiteri.top^
 ||tkitiwjiz.com^
-||tkivhuluzcwi.com^
 ||creative.tklivechat.com^
 ||tkmrdtcfoid.com^
 ||tkoaurrdcktnp.vip^
@@ -107072,6 +107031,7 @@ descargas2020.com##+js(acis, atob, _0x)
 ||pub.toku-tag.jp^
 ||tokumeichat135.net^
 ||tokumeichatmail.net^
+||tokuyama-kaiun.com^
 ||tokyobag.shop^
 ||tolerant126.fun^
 ||matomo.toll-collect.de^
@@ -108418,6 +108378,7 @@ descargas2020.com##+js(acis, atob, _0x)
 ||ttlmodels.com^
 ||analytics.ttps.app^
 ||ttpsdk.info^
+||ttquix.xyz^
 ||ttributoraheadyg.org^
 ||ttrk.io^
 ||ttt777.com^
@@ -108435,6 +108396,7 @@ descargas2020.com##+js(acis, atob, _0x)
 ||tu4038097360.cc^
 ||tu5551976196.cc^
 ||tu6767109513.cc^
+||www.tualcaldia.com^
 ||ad-mediation.tuanguwen.com^
 ||word-v1.tuanguwen.com^
 ||tuaos.xyz^
@@ -109388,6 +109350,7 @@ descargas2020.com##+js(acis, atob, _0x)
 ||unequalbrake.com^
 ||unequaledchair.com^
 ||unequaltrail.com^
+||unesco.sn^
 ||unetbootin.org^
 ||adtrack.unext.jp^
 ||unfairgenelullaby.com^
@@ -110112,11 +110075,9 @@ descargas2020.com##+js(acis, atob, _0x)
 ||usounoul.com^
 ||usouokopeukasrs.org^
 ||inres.uspech.sk^
-||uspeh-partner.xyz^
 ||sdc.usps.com^
 ||usrmm.com^
 ||usrzh.cn^
-||ussckwroweoyv.com^
 ||usseek.com^
 ||ust-ad.com^
 ||ustat.info^
@@ -110206,7 +110167,6 @@ descargas2020.com##+js(acis, atob, _0x)
 ||uvcnmtt.top^
 ||uvekyvs.icu^
 ||metric.uvlauncher.com^
-||uvoephxf.com^
 ||uvoisbg.xyz^
 ||uvphvlgtqjye.com^
 ||analytics.uvpn.me^
@@ -110280,9 +110240,7 @@ descargas2020.com##+js(acis, atob, _0x)
 ||trk.us.vacasa.com^
 ||vacationmonday.com^
 ||analytics.vacationscostarica.com^
-||vacationvoyage.live^
 ||vacature.com^
-||vaccinationinvalidphosphate.com^
 ||vaccinationwear.com^
 ||vaccineconvictedseafood.com^
 ||vachoumpuh.net^
@@ -110290,7 +110248,6 @@ descargas2020.com##+js(acis, atob, _0x)
 ||vacpukna.com^
 ||vacqfuaggah.com^
 ||vacuomedogeys.com^
-||vadarxmala.com^
 ||vadideo.com^
 ||vador.com^
 ||vads.vn^
@@ -110405,19 +110362,16 @@ descargas2020.com##+js(acis, atob, _0x)
 ||vantasrelatercond.com^
 ||vanvwogh.com^
 ||shop.vapelog.jp^
-||vapgfeazdjax.com^
 ||vapjcfgihnu.com^
 ||vapjcusfua.com^
 ||vaqykqeoeaywm.top^
 ||vardenafil20.com^
 ||tags.vari.com^
 ||variablespestvex.com^
-||variaplus.com^
 ||variationsradio.com^
 ||variedpretenceclasped.com^
 ||variedslimecloset.com^
 ||varietyofdisplayformats.com^
-||varink.com^
 ||variouscreativeformats.com^
 ||variousformatscontent.com^
 ||variouspheasantjerk.com^
@@ -110425,6 +110379,7 @@ descargas2020.com##+js(acis, atob, _0x)
 ||varkelmbqlbrw.top^
 ||varnerfarms.net^
 ||varnishmosquitolocust.com^
+||analytics.varonis.io^
 ||metric.varonis.io^
 ||vartoken.com^
 ||vartui.store^
@@ -110440,7 +110395,6 @@ descargas2020.com##+js(acis, atob, _0x)
 ||vastserved.com^
 ||vastsneezevirtually.com^
 ||vastymeropic.shop^
-||vasundharainfra.in^
 ||vataas.com^
 ||vatanclick.ir^
 ||piwik.vates.fr^
@@ -110476,8 +110430,6 @@ descargas2020.com##+js(acis, atob, _0x)
 ||vazshojt.com^
 ||vazticlkivi.com^
 ||vazypteke.pro^
-||vb7.site^
-||vbaiu.com^
 ||analytics.vbb.de^
 ||track.vbet.am^
 ||track.vbet.com^
@@ -110486,6 +110438,7 @@ descargas2020.com##+js(acis, atob, _0x)
 ||vbhuivr.com^
 ||vbiakpu.icu^
 ||vbm1.ru^
+||vbmjlevwwvyzj.top^
 ||vboiutv.xyz^
 ||vbooter.org^
 ||vboro.de^
@@ -110495,7 +110448,6 @@ descargas2020.com##+js(acis, atob, _0x)
 ||vbt.io^
 ||vbtrax.com^
 ||stat.vbv.at^
-||vbzsjkrnsqewy.com^
 ||vcdc.com^
 ||core.vchat.vn^
 ||vchulkah.net^
@@ -110529,7 +110481,6 @@ descargas2020.com##+js(acis, atob, _0x)
 ||analytics.vdohide.com^
 ||vdoing.com^
 ||vdopia.com^
-||vdragon.org^
 ||vdsdsf2.fun^
 ||vdx.tv^
 ||vdzna.com^
@@ -110692,7 +110643,6 @@ descargas2020.com##+js(acis, atob, _0x)
 ||matomo.saas-3.veriff.com^
 ||trk.info.verifi.com^
 ||verifiablevolume.com^
-||verificationtracker.com^
 ||verified-extensions.com^
 ||analytics.veriforceone.com^
 ||analytics.eu1.verimatrixcloud.net^
@@ -110731,7 +110681,6 @@ descargas2020.com##+js(acis, atob, _0x)
 ||insure.vertafore.com^
 ||vertamedia.com^
 ||beacon.vertebrae-axis.com^
-||vertex.best^
 ||vertexuniversal.com^
 ||verticallyrational.com^
 ||verticalmass.com^
@@ -110758,9 +110707,7 @@ descargas2020.com##+js(acis, atob, _0x)
 ||verypopularwebsite.com^
 ||veryverythanks1123.jp^
 ||vesele.info^
-||veselun.site^
 ||vespymedia.com^
-||vestigeboxesreed.com^
 ||vestigeencumber.com^
 ||vestrydual.top^
 ||vesuvinaqueity.top^
@@ -110847,7 +110794,6 @@ descargas2020.com##+js(acis, atob, _0x)
 ||viagogo.se^
 ||wt.viagogo.net^
 ||viagra100mgbestprice.com^
-||viagra24h.xyz^
 ||viaklera.com^
 ||vialotadom.com^
 ||viandryochavo.com^
@@ -110873,7 +110819,6 @@ descargas2020.com##+js(acis, atob, _0x)
 ||ads-d.viber.com^
 ||analytics.viberate.com^
 ||tagtracking.vibescm.com^
-||vibetogether.xyz^
 ||viboom.com^
 ||viboom.ru^
 ||vibrantcelebration.com^
@@ -110895,7 +110840,6 @@ descargas2020.com##+js(acis, atob, _0x)
 ||vicomi.com^
 ||vicp.cc^
 ||victimcondescendingcable.com^
-||victimsundaydirectly.com^
 ||banners.victor.com^
 ||victoriaadam.com^
 ||bykwtf.victoriassecret.ae^
@@ -110921,7 +110865,6 @@ descargas2020.com##+js(acis, atob, _0x)
 ||vhrbxb.vidaxl.nl^
 ||wjtekf.vidaxl.bg^
 ||vidazoo.com^
-||vidbaonlo.com^
 ||stats.vidbinge.com^
 ||vidcpm.com^
 ||adat.videa.hu^
@@ -111114,13 +111057,13 @@ descargas2020.com##+js(acis, atob, _0x)
 ||click.vieon.vn^
 ||vieon-tracking.vieon.vn^
 ||viet69.uk^
-||vietannong.com^
 ||ad.vietbao.vn^
 ||vietdorje.com^
 ||vietgav.cc^
 ||vietgov.cc^
 ||vietgov5.cc^
 ||viethoc.com^
+||vietjet.online^
 ||matomo.vietlottsms.vn^
 ||vietnam-airline.org^
 ||vietnamaairlines.com^
@@ -111245,7 +111188,6 @@ descargas2020.com##+js(acis, atob, _0x)
 ||villagerreporter.com^
 ||villainous-appointment.com^
 ||t.villanova.com^
-||villanyauto.com^
 ||piwik.vilua.de^
 ||vimaxckc.com^
 ||arclight.vimeo.com^
@@ -111304,7 +111246,6 @@ descargas2020.com##+js(acis, atob, _0x)
 ||analytics.viptela.com^
 ||cnt.viptube.com^
 ||analytics.vipulnaik.com^
-||vipvps.shop^
 ||vipwm.cc^
 ||metrics.viqeo.tv^
 ||sentry.viqeo.tv^
@@ -111412,7 +111353,6 @@ descargas2020.com##+js(acis, atob, _0x)
 ||visionchillystatus.com^
 ||visioncriticalpanels.com^
 ||analytics.cloud.visiondsm.com^
-||visionetsystemshris.com^
 ||ads.visions.ca^
 ||visionsage.com^
 ||visionvelvet.co^
@@ -111727,7 +111667,6 @@ descargas2020.com##+js(acis, atob, _0x)
 ||analytics.vixcloud.co^
 ||analytics.vixxcloud.online^
 ||vixzkewa.com^
-||vizalis.online^
 ||sstats.vizergy.com^
 ||vizierspavan.com^
 ||ads.vizio.com^
@@ -111882,7 +111821,6 @@ descargas2020.com##+js(acis, atob, _0x)
 ||voicecloud.cn^
 ||voicedstart.com^
 ||voicefive.com^
-||voiceoverdirectory.net^
 ||voicepainlessdonut.com^
 ||voicepins.com^
 ||voicepythons.shop^
@@ -111989,6 +111927,7 @@ descargas2020.com##+js(acis, atob, _0x)
 ||vougaipte.net^
 ||vounooptouphu.net^
 ||voupsauk.com^
+||voustoaphoug.net^
 ||statistics.vov.vn^
 ||vowelparttimegraceless.com^
 ||vowingsirees.top^
@@ -112156,8 +112095,6 @@ descargas2020.com##+js(acis, atob, _0x)
 ||vufsqwipynwjp.com^
 ||vugpakba.com^
 ||vuidccfq.life^
-||vukvrinitfug.com^
-||vulcanmillion.cfd^
 ||vulcannonibird.de^
 ||vulesecdn.click^
 ||vulgarmilletappear.com^
@@ -112192,7 +112129,6 @@ descargas2020.com##+js(acis, atob, _0x)
 ||ub-xjp.vvbrd.com^
 ||vvdrhe.win^
 ||vvfgjzwa.icu^
-||vvgpkowlun.com^
 ||tracking.vviinn.com^
 ||vvital.com^
 ||sponsors.vvng.com^
@@ -112250,11 +112186,9 @@ descargas2020.com##+js(acis, atob, _0x)
 ||vxchnge.net^
 ||vxcsh.me^
 ||vxdrfr.xyz^
-||vxeynuboasnc.com^
 ||vxorjza.com^
 ||vxpcarcapffdp.global^
 ||secure.vxsbill.com^
-||vxsscpctuiq.com^
 ||vyborexperta.ru^
 ||vyebzzbovvorz.top^
 ||vyebzzqlojvrl.top^
@@ -112262,11 +112196,11 @@ descargas2020.com##+js(acis, atob, _0x)
 ||vyg.mobi^
 ||vyhxugizkaktg.tech^
 ||vyking.io^
+||vymybkyrzvwyj.top^
 ||tracking1.vyond.com^
 ||vypepega.com^
 ||vyper.io^
 ||vywvncjascsrw.world^
-||vyznanie-lasky.com^
 ||adv.vz.ru^
 ||analytics.vz.lt^
 ||vzeakntvvkc.one^
@@ -112300,6 +112234,7 @@ descargas2020.com##+js(acis, atob, _0x)
 ||w4.com^
 ||w454n74qw.com^
 ||w4h5ae.ru^
+||w51t.com^
 ||w55c.net^
 ||w7044.com^
 ||w716eb02n9.ru^
@@ -112309,6 +112244,7 @@ descargas2020.com##+js(acis, atob, _0x)
 ||waardex.com^
 ||waazgwojnfqx.life^
 ||wabbledrutter.top^
+||wabot.site^
 ||wabu.com^
 ||wacapousoth.top^
 ||analytics.wachanga.com^
@@ -112413,7 +112349,6 @@ descargas2020.com##+js(acis, atob, _0x)
 ||wanderingchimneypainting.com^
 ||wanderside.com^
 ||axp.wane.com^
-||wanfteakgakt.com^
 ||wanfumei.net^
 ||wangfenxi.com^
 ||mlog.wangsu.com^
@@ -112521,7 +112456,6 @@ descargas2020.com##+js(acis, atob, _0x)
 ||watcheraddictedpatronize.com^
 ||watcherdisastrous.com^
 ||watcherworkingbrand.com^
-||watchespounceinvolving.com^
 ||watchguardduty.com^
 ||watchheeddandy.com^
 ||watchingthat.com^
@@ -112622,7 +112556,6 @@ descargas2020.com##+js(acis, atob, _0x)
 ||event.wbinsights.com^
 ||wbkfklsl.com^
 ||wbkokfwzpfuai.life^
-||wbm6.xyz^
 ||wboptim.online^
 ||axp.wboy.com^
 ||wbqqo.com^
@@ -112668,7 +112601,6 @@ descargas2020.com##+js(acis, atob, _0x)
 ||analytics.sandbox.wdesk.com^
 ||telemetry.staging.wdesk.org^
 ||telemetry.wk-dev.wdesk.org^
-||wdevxtmasfdswx.com^
 ||wdfl.co^
 ||geo.wdgtsrc.com^
 ||axp.wdhn.com^
@@ -112716,7 +112648,6 @@ descargas2020.com##+js(acis, atob, _0x)
 ||sentry.wearetriple.com^
 ||wearevaporatewhip.com^
 ||knorzj.wearfigs.com^
-||wearisomeexertiontales.com^
 ||wearychallengeraise.com^
 ||wearyvolcano.com^
 ||weaselmicroscope.com^
@@ -112734,7 +112665,6 @@ descargas2020.com##+js(acis, atob, _0x)
 ||weatherforecastmap.com^
 ||weatherplllatform.com^
 ||weaveradrenaline.com^
-||weaverdispensepause.com^
 ||telemetry.weaviate.io^
 ||weayrvveooomw.top^
 ||absys.web.de^
@@ -112950,7 +112880,6 @@ descargas2020.com##+js(acis, atob, _0x)
 ||webstats4u.com^
 ||websterro.com^
 ||webstorestore.store^
-||webtailoring.com^
 ||webtemsilcisi.com^
 ||webterren.com^
 ||gak.webtoons.com^
@@ -113005,6 +112934,7 @@ descargas2020.com##+js(acis, atob, _0x)
 ||wecontemptceasless.com^
 ||wedauspicy.com^
 ||wedeffront.top^
+||rtb.wedeo.ru^
 ||wedgeneutralitymiss.com^
 ||wedgierbirsit.com^
 ||analytics.wedgwood.com^
@@ -113033,6 +112963,7 @@ descargas2020.com##+js(acis, atob, _0x)
 ||weesatoothoamu.net^
 ||weeshounithula.net^
 ||weeweesozoned.com^
+||tag.weezmo.com^
 ||weezoptez.net^
 ||wefbee.com^
 ||wefeinternet.com^
@@ -113062,16 +112993,13 @@ descargas2020.com##+js(acis, atob, _0x)
 ||weightfeathersoffhand.com^
 ||knapia.weightwatchers.com^
 ||weightypikas.shop^
-||weike200.com^
 ||ads.weilitoutiao.net^
 ||metrics.weinco.at^
 ||weird-speed.pro^
 ||weirdsentence.com^
-||weiserware.com^
 ||weitietl.com^
 ||badjs.weixinbridge.com^
 ||huatuo.weiyun.com^
-||weiyunchengxu.cn^
 ||weizhenwx.com^
 ||wejeestuze.net^
 ||analytics.weka.at^
@@ -113085,6 +113013,7 @@ descargas2020.com##+js(acis, atob, _0x)
 ||pixel.welcomesoftware.com^
 ||sp.welcometothejungle.com^
 ||welcomevaliant.com^
+||welcomingaccompanyeffort.com^
 ||welcomingvigour.com^
 ||welect.de^
 ||analytics.welfare.it^
@@ -113092,7 +113021,6 @@ descargas2020.com##+js(acis, atob, _0x)
 ||welfarefit.com^
 ||welfaremarsh.com^
 ||analytics.well-health-app.com^
-||welledufennica.com^
 ||ddm.wellfound.com^
 ||wellgroomedhydrant.com^
 ||wellhello.com^
@@ -113130,7 +113058,6 @@ descargas2020.com##+js(acis, atob, _0x)
 ||wenog.com^
 ||wenoolgo.icu^
 ||wensonk.com^
-||wenxuemi6.com^
 ||wep.wf^
 ||ad.weplayer.cc^
 ||bugly.weplayer.cc^
@@ -113181,7 +113108,6 @@ descargas2020.com##+js(acis, atob, _0x)
 ||wet-maybe.pro^
 ||crashsight.wetest.net^
 ||perfsight.wetest.net^
-||wetlan.com^
 ||wetlwse.top^
 ||wetnesstommer.com^
 ||wetrack.it^
@@ -113202,7 +113128,6 @@ descargas2020.com##+js(acis, atob, _0x)
 ||collection.weverse.io^
 ||wevrwqjqemkyj.top^
 ||wewearegogogo.com^
-||wewillrocknow.com^
 ||wewlorozwolyz.top^
 ||wewrute.top^
 ||wextap.com^
@@ -113252,7 +113177,6 @@ descargas2020.com##+js(acis, atob, _0x)
 ||whaleslightestimposter.com^
 ||whammedknavess.top^
 ||whampamp.com^
-||whamuthygle.com^
 ||whandpolista.com^
 ||wharployn.com^
 ||ywrcqa.whas11.com^
@@ -113392,7 +113316,6 @@ descargas2020.com##+js(acis, atob, _0x)
 ||wholituaten.com^
 ||whollyneedy.com^
 ||whomcomposescientific.com^
-||whomspreadbeep.com^
 ||whomsudsikaxu.com^
 ||whoockeg.top^
 ||whoodiksaglels.net^
@@ -113643,7 +113566,6 @@ descargas2020.com##+js(acis, atob, _0x)
 ||analytics.winespies.com^
 ||winewiden.com^
 ||smetrics.winfieldunited.com^
-||winfr-wtc.com^
 ||wingjav11.fun^
 ||wingselastic.com^
 ||wingstoesassemble.com^
@@ -113934,7 +113856,6 @@ descargas2020.com##+js(acis, atob, _0x)
 ||wogglehydrae.com^
 ||analytics.wohnnet.at^
 ||piwik.wohnservice-wien.at^
-||wohong5.com^
 ||analytics.wojas.pl^
 ||wokeshootdisreputable.com^
 ||wokm8isd4zit.com^
@@ -114403,6 +114324,7 @@ descargas2020.com##+js(acis, atob, _0x)
 ||wuxlvvcv.com^
 ||cdn.wuyou.ca^
 ||wuzbhjpvsf.com^
+||wvbep.org^
 ||wvboajjti.com^
 ||wvcnmte.top^
 ||wvhba6470p.com^
@@ -114458,7 +114380,6 @@ descargas2020.com##+js(acis, atob, _0x)
 ||wxmhau.xyz^
 ||wxqbopca-i.global^
 ||wxseedslpi.com^
-||wyaoormajvwqj.top^
 ||wycc.porn^
 ||wyeczfx.com^
 ||y000.wyff4.com^
@@ -114603,6 +114524,7 @@ descargas2020.com##+js(acis, atob, _0x)
 ||xctoquhnalqgn.vip^
 ||xcuffrzha.com^
 ||xda-developers.io^
+||xdbwoc.com^
 ||piwik.xdeep.eu^
 ||xdfrdcuiug.com^
 ||xdgelyt.com^
@@ -114736,6 +114658,7 @@ descargas2020.com##+js(acis, atob, _0x)
 ||xianshangzixun.com^
 ||xianshangzixun.net^
 ||xiaobaixitong.com^
+||xiaofangtongzhi.xyz^
 ||xiaohei.com^
 ||crash.xiaohongshu.com^
 ||flash.xiaohongshu.com^
@@ -114925,6 +114848,7 @@ descargas2020.com##+js(acis, atob, _0x)
 ||xkmwxwy.cn^
 ||xkp.cc^
 ||xkpbcd.com^
+||xksqb.com^
 ||xktxemf.com^
 ||analytics.xl.pt^
 ||st.pba.xl.pt^
@@ -114977,6 +114901,7 @@ descargas2020.com##+js(acis, atob, _0x)
 ||xmlppc.net^
 ||xmlppcbuzz.com^
 ||xmlrtb.com^
+||xmlsxar.cn^
 ||xmlwiz.com^
 ||xmlwolf.com^
 ||xmlx.lol^
@@ -115064,6 +114989,7 @@ descargas2020.com##+js(acis, atob, _0x)
 ||xpvv0rkn.fun^
 ||xpxsfejcf.com^
 ||xqaosfdbhff.today^
+||xqblnei.cn^
 ||xqeoitqw.site^
 ||xqmvzmt.com^
 ||xqwcryh.com^
@@ -115273,6 +115199,7 @@ descargas2020.com##+js(acis, atob, _0x)
 ||xxyrgvielmehx.com^
 ||xy.com^
 ||xy7elite.com^
+||xy7track.com^
 ||xycdn.com^
 ||xyl.lat^
 ||analytics.xylemsales.com^
@@ -115442,6 +115369,7 @@ descargas2020.com##+js(acis, atob, _0x)
 ||yandexadexchange.net^
 ||yandexmetric.com^
 ||yandexmetrica.com^
+||yangjie.asia^
 ||cmta.yangkeduo.com^
 ||ta.yangkeduo.com^
 ||mobi.yanosik.pl^
@@ -115450,6 +115378,7 @@ descargas2020.com##+js(acis, atob, _0x)
 ||analytics.yapms.com^
 ||yapunderstandsounding.com^
 ||yapzoa.xyz^
+||yaqurc.com^
 ||telemetry.yara.com^
 ||smetric.yardhouse.com^
 ||yardianalytics.com^
@@ -115462,6 +115391,7 @@ descargas2020.com##+js(acis, atob, _0x)
 ||yassine-bounou.com^
 ||yaszcbffjnfak.today^
 ||analytics.yatco.com^
+||yatemy.cn^
 ||yatr.ru^
 ||goose.yatse.tv^
 ||yatv.pro^
@@ -115744,6 +115674,7 @@ descargas2020.com##+js(acis, atob, _0x)
 ||ynote.hk^
 ||ynrije.com^
 ||ynurfigldblbt.online^
+||ynwia.com^
 ||ynyy83za4i.ru^
 ||rmq-oade-logging.yo-digital.com^
 ||yoads.net^
@@ -115887,6 +115818,7 @@ descargas2020.com##+js(acis, atob, _0x)
 ||data.younow.com^
 ||youpeacockambitious.com^
 ||ht.youporn.com^
+||youqunjx.com^
 ||your.com^
 ||your-analytics.org^
 ||analytics.your-domain.com^
@@ -115977,6 +115909,7 @@ descargas2020.com##+js(acis, atob, _0x)
 ||yqlzccxn.icu^
 ||yqmxfz.com^
 ||yqp-oxzxjecq.world^
+||yquqoj.com^
 ||yrccils0spqnkc3.xyz^
 ||yremovementxvi.org^
 ||yresumeformor.com^
@@ -115997,11 +115930,13 @@ descargas2020.com##+js(acis, atob, _0x)
 ||yskicm.xyz^
 ||yssryr.cn^
 ||yt-adblocker.com^
+||www.yt118.com^
 ||ytdut.online^
 ||ytelc.com^
 ||analytics.yten.com^
 ||yterxv.com^
 ||ytghtq.xyz^
+||ytgngedq.xyz^
 ||analytics.ytica.com^
 ||ytihp.com^
 ||ytimgg.com^
@@ -116251,7 +116186,6 @@ descargas2020.com##+js(acis, atob, _0x)
 ||zavirand.com^
 ||zavodooo.ru^
 ||zavoxlquwb.com^
-||zaxavwah.com^
 ||zaxonoax.com^
 ||applog.zaycev.net^
 ||rttr2.zaycev.net^
@@ -116284,6 +116218,7 @@ descargas2020.com##+js(acis, atob, _0x)
 ||t6.zcvh.net^
 ||t7.zcvh.net^
 ||t8.zcvh.net^
+||turn.zcvh.net^
 ||analytics.zdassets.com^
 ||gurgle.zdbb.net^
 ||jogger.zdbb.net^
@@ -116291,6 +116226,7 @@ descargas2020.com##+js(acis, atob, _0x)
 ||static.zdbb.net^
 ||mefo1.zdf.de^
 ||tracksrv.zdf.de^
+||zdfl.xyz^
 ||a.zdg.de^
 ||a3.zdg.de^
 ||zdkgxeeykuhs.today^
@@ -116470,6 +116406,7 @@ descargas2020.com##+js(acis, atob, _0x)
 ||zhaoxieliao.com^
 ||zhctrack.net^
 ||zhdzkj.com^
+||zhengshaoze.com^
 ||zhengzhou12.top^
 ||pv.zhiding.cn^
 ||crash2.zhihu.com^
@@ -116666,6 +116603,7 @@ descargas2020.com##+js(acis, atob, _0x)
 ||server.zmedia.vn^
 ||analytics.zmescience.com^
 ||zmmlllpjxvxl.buzz^
+||zmoe.ru^
 ||zmonei.com^
 ||gdl.zmqdez.ru^
 ||zmrmbc.xyz^
@@ -116721,7 +116659,6 @@ descargas2020.com##+js(acis, atob, _0x)
 ||zona-games.net^
 ||info.zonasearch.com^
 ||install.zonastat.com^
-||zone-media.com^
 ||zonealta.com^
 ||zonedummy.com^
 ||zoneremeriti.top^
@@ -116828,7 +116765,6 @@ descargas2020.com##+js(acis, atob, _0x)
 ||ztgame.com^
 ||ztgha.xyz^
 ||ztlcrzmjshgfc.one^
-||ztofwukt.com^
 ||ztqdkzn.cn^
 ||ztrack.online^
 ||ztrck.me^
@@ -116868,7 +116804,6 @@ descargas2020.com##+js(acis, atob, _0x)
 ||analytics.zupas.com^
 ||zuppelzockt.com^
 ||zuqalzajno.com^
-||zuqokksa.com^
 ||zureiskedamyb.world^
 ||zurich-girls.ch^
 ||ad.zurnal24.si^
@@ -116878,6 +116813,7 @@ descargas2020.com##+js(acis, atob, _0x)
 ||zuulo.xyz^
 ||zvetki.ru^
 ||zvetokr2hr8pcng09.com^
+||zvkytbjimbhk.com^
 ||zvu9s9.com^
 ||zvvlbf.xyz^
 ||zvvqprcjjnh.com^
@@ -116928,6 +116864,8 @@ descargas2020.com##+js(acis, atob, _0x)
 ||metrics.hunters.zynga.com^
 ||zyngaplayersupport.com^
 ||zyns.com^
+||zyrelolbbqelo.top^
+||zyrelolbbqyww.top^
 ||zyrji.com^
 ||zyrnbh.xyz^
 ||analytics.zyrtec.com^
