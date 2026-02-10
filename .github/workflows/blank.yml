@@ -11,7 +11,7 @@ on:
   pull_request:
     # For the develop branch only.
     branches:
-      - develop
+      - main
     # Execute the action on closed (merged) PR.
     types:
       [closed]
@@ -31,4 +31,3 @@ jobs:
      # Runs a set of commands using the runners shell           
       - name: Build Adguard list
         run: hostlist-compiler -c configuration5.json -o Adguardstylepc.txt
-        
