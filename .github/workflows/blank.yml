@@ -24,8 +24,8 @@ jobs:
       # Runs a single command using the runners shell
       - name: Install HostlistCompiler
         run: |
-        npm install https://github.com/unknown4849/HostlistCompiler --force
-        hostlist-compiler -c configuration5.json -o Adguardstylepc.txt
+            npm install https://github.com/unknown4849/HostlistCompiler --force
+            hostlist-compiler -c configuration5.json -o Adguardstylepc.txt
         
       - name: Create release
         uses: ncipollo/release-action@v1.20.0
