@@ -8,13 +8,6 @@ on:
   push:
   schedule:
         - cron: '30 17 * * 1-6'
-  pull_request:
-    # For the develop branch only.
-    branches:
-      - main
-    # Execute the action on closed (merged) PR.
-    types:
-      [closed]
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
   # This workflow contains a single job called "build"
@@ -31,3 +24,9 @@ jobs:
      # Runs a set of commands using the runners shell           
       - name: Build Adguard list
         run: hostlist-compiler -c configuration5.json -o Adguardstylepc.txt
+        
+      - name: upload
+        run: |
+          git add Adguardstylepc.txt
+          git commit -m "update"
+          git push
