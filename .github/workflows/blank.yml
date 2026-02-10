@@ -16,17 +16,16 @@ jobs:
     # The type of runner that the job will run on
     runs-on: ubuntu-latest
     
-      # This is your build stage
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - uses: actions/checkout@v4
+
       - name: npm install, build, and test
         run: |
           npm install
           npm run build --if-present
           npm run test --if-present
-          
-    # Steps represent a sequence of tasks that will be executed as part of the job
-    steps:
-      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-      - uses: actions/checkout@v4
       
       # Runs a single command using the runners shell
       - name: Install HostlistCompiler
