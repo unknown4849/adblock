@@ -7,8 +7,7 @@ on:
   # Triggers the workflow on push or pull request events but only for the "main" branch
   push:
   schedule:
-    - cron: '30 5 * * 1,3'
-    - cron: '30 5,17 * * 2,4'
+        - cron: '30 17 * * 1-6'
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
   # This workflow contains a single job called "build"
@@ -28,6 +27,7 @@ jobs:
      # Runs a set of commands using the runners shell
       - name: Build Adguard list
         run: |
+          echo "${{ toJSON(github) }}"
           hostlist-compiler -c configuration5.json -o Adguardstylepc.txt
         
       - name: Create release
