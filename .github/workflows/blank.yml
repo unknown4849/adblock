@@ -34,8 +34,6 @@ jobs:
       - name: generate domain
         working-directory: .\DNScrypt-Filter
         run: py generate-domains-blocklist.py -o blocked-names.txt
-        
-        working-directory: 
       - name: upload
         run: |
           git config --global user.name 'unknown4849'
