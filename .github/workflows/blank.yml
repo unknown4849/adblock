@@ -30,9 +30,7 @@ jobs:
      # Runs a set of commands using the runners shell
       - name: Build Adguard list
         working-directory: .\Adguard-Filter
-        run: |
-              hostlist-compiler -c configuration5.json -o Adguardstylepc.txt
-              Move-Item -Path .\Adguardstylepc.txt -Destination .\adblock
+        run: hostlist-compiler -c configuration5.json -o Adguardstylepc.txt
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - name: generate domain
         working-directory: .\DNScrypt-Filter
@@ -46,3 +44,13 @@ jobs:
           git add Adguard-Filter/Adguardstylepc.txt
           git commit -m "update"
           git push
+  workflow-cleanup:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Delete old workflow runs
+        uses: Mattraks/delete-workflow-runs@v2.1
+        with:
+          token: ${{ github.token }}
+          repository: ${{ github.repository }}
+          retain_days: 0
+          keep_minimum_runs: 0
