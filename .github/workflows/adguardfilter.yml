@@ -17,7 +17,7 @@ jobs:
     defaults:
       run:
         shell: bash
-        working-directory: .\DNScrypt-Filter
+        working-directory: .\Adguard-Filter
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
@@ -27,7 +27,6 @@ jobs:
         run: npm i -g @adguard/hostlist-compiler
      # Runs a set of commands using the runners shell           
       - name: Build Adguard list
-        working-directory: .\Adguard-Filter
         run: hostlist-compiler -c configuration5.json -o Adguardstylepc.txt
         
       - name: upload
