@@ -5,6 +5,7 @@ name: Build Adguard List
 # Controls when the workflow will run
 on:
   # Triggers the workflow on push or pull request events but only for the "main" branch
+  push:
   schedule:
         - cron: '30 17 * * 0-6'
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
@@ -24,11 +25,20 @@ jobs:
       - name: Build Adguard list
         run: hostlist-compiler -c configuration5.json -o Adguardstylepc.txt
         
+        working-directory: .\DNScrypt-Filter
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+      - name: generate domain
+        run: py generate-domains-blocklist.py -o blocked-names.txt
+    
       - name: upload
         run: |
           git config --global user.name 'unknown4849'
           git config --global user.email '74445408+unknown4849@users.noreply.github.com'
           git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
-          git add Adguardstylepc.txt
+          git add blocked-names.txt
           git commit -m "update"
           git push
