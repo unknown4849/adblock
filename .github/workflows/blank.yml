@@ -40,7 +40,7 @@ jobs:
           git config --global user.name 'unknown4849'
           git config --global user.email '74445408+unknown4849@users.noreply.github.com'
           git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
-          git add ".\DNScrypt-Filter/blocked-names.txt"
+          git add ".\blocked-names.txt"
           git commit -m "update"
           git push
   
