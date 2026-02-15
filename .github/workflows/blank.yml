@@ -18,19 +18,17 @@ jobs:
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v4
-      # Runs a single command using the runners shell
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
       - name: Install HostlistCompiler
         run: npm i -g @adguard/hostlist-compiler
      # Runs a set of commands using the runners shell           
       - name: Build Adguard list
         run: hostlist-compiler -c configuration5.json -o Adguardstylepc.txt
-        
-        working-directory: .\DNScrypt-Filter
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
-        with:
-          python-version: '3.10'
+        working-directory: .\DNScrypt-Filter
       - name: generate domain
         run: py generate-domains-blocklist.py -o blocked-names.txt
     
