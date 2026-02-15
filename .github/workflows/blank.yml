@@ -8,7 +8,6 @@ on:
   push:
     branches:
     - main
-    - release/*
   schedule:
         - cron: '30 17 * * 0-6'
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
@@ -41,6 +40,8 @@ jobs:
           git config --global user.email '74445408+unknown4849@users.noreply.github.com'
           git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
           git add DNScrypt-Filter/blocked-names.txt
+          git commit -m "update"
+          git push
           git add Adguard-Filter/Adguardstylepc.txt
           git commit -m "update"
           git push
