@@ -30,7 +30,6 @@ jobs:
         working-directory: .\Adguard-Filter
         run: |
             hostlist-compiler -c configuration5.json -o Adguardstylepc.txt
-             Move-Item -Path .\Adguardstylepc.txt -Destination .\adblock
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - name: generate domain
         working-directory: .\DNScrypt-Filter
