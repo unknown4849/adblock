@@ -5,6 +5,10 @@ name: Build Adguard List
 # Controls when the workflow will run
 on:
   # Triggers the workflow on push or pull request events but only for the "main" branch
+  push:
+    branches:
+    - main
+    - release/*
   schedule:
         - cron: '30 17 * * 0-6'
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
@@ -40,6 +44,7 @@ jobs:
           git add Adguard-Filter/Adguardstylepc.txt
           git commit -m "update"
           git push
+  
   workflow-cleanup:
     runs-on: ubuntu-latest
     steps:
