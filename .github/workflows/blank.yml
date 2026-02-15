@@ -30,7 +30,7 @@ jobs:
         working-directory: .\Adguard-Filter
         run: |
             hostlist-compiler -c configuration5.json -o Adguardstylepc.txt
-            Move-Item .\Adguardstylepc.txt -Destination .\adblock
+             Move-Item -Path .\Adguardstylepc.txt -Destination .\adblock
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - name: generate domain
         working-directory: .\DNScrypt-Filter
@@ -40,8 +40,8 @@ jobs:
           git config --global user.name 'unknown4849'
           git config --global user.email '74445408+unknown4849@users.noreply.github.com'
           git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
-          git add blocked-names.txt
-          git add Adguardstylepc.txt
+          git add DNScrypt-Filter/blocked-names.txt
+          git add Adguard-Filter/Adguardstylepc.txt
           git commit -m "update"
           git push
   
