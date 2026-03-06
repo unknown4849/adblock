@@ -45,3 +45,6 @@ geo-prod.do.dsp.mp.microsoft.com
 au.download.windowsupdate.com
 telemetry.mozilla.org
 time.windows.com
+collector.bsg.brave.com
+star-randsrv.bsg.brave.com
+kurogame.xyz
