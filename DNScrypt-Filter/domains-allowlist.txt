@@ -1,3 +1,4 @@
+perfsight.wetest.net
 mon.tiktokv.com
 feedback-pa.clients6.google.com
 hoyoverse.com
@@ -42,4 +43,5 @@ smartscreen-prod.microsoft.com
 oneocsp.microsoft.com
 geo-prod.do.dsp.mp.microsoft.com
 au.download.windowsupdate.com
+telemetry.mozilla.org
 time.windows.com
