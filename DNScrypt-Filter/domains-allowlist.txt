@@ -48,3 +48,4 @@ time.windows.com
 collector.bsg.brave.com
 star-randsrv.bsg.brave.com
 kurogame.xyz
+telemetry-incoming.r53-2.services.mozilla.com
