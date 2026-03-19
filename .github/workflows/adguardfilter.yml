@@ -1,4 +1,4 @@
-name: Build Adguardfilter
+name: Build dnsfilter
 on:
   schedule:
         - cron: '30 17 * * 0-6'
