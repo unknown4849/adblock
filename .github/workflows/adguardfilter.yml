@@ -28,6 +28,7 @@ jobs:
           
   dnscrypt_build:
     runs-on: windows-latest
+    needs: adguardfilter_build
     defaults:
       run:
         shell: bash
