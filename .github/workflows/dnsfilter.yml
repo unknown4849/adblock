@@ -13,7 +13,11 @@ jobs:
     steps:
       - uses: actions/checkout@v6
       - name: Install HostlistCompiler
-        run: npm i -g @adguard/hostlist-compiler      
+        run: npm i -g @adguard/hostlist-compiler
+      - uses: actions/checkout@v6
+      - uses: actions/setup-python@v6
+        with:
+         python-version: '3.10' 
       - name: Build Adguard list
         run: hostlist-compiler -c configuration5.json -o Adguardstylepc.txt
         
@@ -34,11 +38,6 @@ jobs:
         shell: bash
         working-directory: .\DNScrypt-Filter
     steps:
-      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-    - uses: actions/checkout@v6
-    - uses: actions/setup-python@v6
-      with:
-        python-version: '3.10' 
     - run: py generate-domains-blocklist.py -o blocked-names.txt
 
     - name: upload
