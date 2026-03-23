@@ -1,8 +1,3 @@
 perfsight.wetest.net
 crashsight.wetest.net
-mon.tiktokv.com
 auslogics.com
-telemetry.mozilla.org
-collector.bsg.brave.com
-star-randsrv.bsg.brave.com
-telemetry-incoming.r53-2.services.mozilla.com
