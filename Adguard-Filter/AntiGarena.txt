@@ -15,4 +15,4 @@
 ||content.garena.com^
 ||data-rep.livetech.shopee.co.id^
 ||live.shopee.co.id^
-||mimir2.vivaldi.com^
+||go-updater.brave.com
