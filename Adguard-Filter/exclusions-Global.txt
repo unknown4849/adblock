@@ -2,8 +2,6 @@
 
 ||hoyo.link^
 ||shope.ee^
-||collector.bsg.brave.com^
-||star-randsrv.bsg.brave.com^
 ||crashsight.wetest.net^
 ||perfsight.wetest.net^
 
