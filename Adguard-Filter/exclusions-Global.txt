@@ -1,0 +1,19 @@
+# Other
+
+||hoyo.link^
+||shope.ee^
+||crashsight.wetest.net^
+||perfsight.wetest.net^
+||telemetry-incoming.r53-2.services.mozilla.com^
+||telemetry.mozilla.org^
+||event-log-api-data-platform-data-lake-prod.gryphline.com^
+||event-log-api-ipv6.gryphline.com^
+||eventlog.gryphline.com^
+||native-log-collect.gryphline.com^
+||qcloud-sg-datareceiver.kurogame.xyz^
+||mp-gb-sdklog.kurogames.net^
+||apm-log-upload-os.hoyoverse.com^
+||log-upload-os.hoyoverse.com^
+||zzz-log-upload-os.hoyoverse.com^
+||sg-public-data-api.hoyoverse.com^
+||sdk-os-static.hoyoverse.com^
