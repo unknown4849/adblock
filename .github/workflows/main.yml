@@ -1,0 +1,38 @@
+name: Build dnsfilter
+on:
+  schedule:
+        - cron: '30 23 * * 0-6'
+  workflow_dispatch:
+jobs:
+  adguardfilter:
+    runs-on: windows-latest
+    defaults:
+      run:
+        shell: bash
+    steps:
+      - uses: actions/checkout@v6
+      - name: Install HostlistCompiler
+        run: npm i -g @adguard/hostlist-compiler
+      - name: Build Adguard list
+        working-directory: .\Adguard-Filter
+        run: hostlist-compiler -c configuration5.json -o Adguardstylepc.txt
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.13'
+      - name: Build blocked-names
+        working-directory: .\DNScrypt-Filter
+        run: |
+          py generate-domains-blocklist.py -o blocked-names.txt
+          git add blocked-names.txt
+      - name: Import GPG key
+        uses: crazy-max/ghaction-import-gpg@v7
+        with:
+          gpg_private_key: ${{ secrets.GPG_PRIVATE_KEY }}
+          passphrase: ${{ secrets.GPG_PASSPHRASE }}
+          git_user_signingkey: true
+          git_commit_gpgsign: true
+      - name: git add
+        run: |
+          git add -u
+          git commit -m "update"
+          git push
