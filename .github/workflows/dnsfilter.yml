@@ -1,7 +1,8 @@
 name: Build dnsfilter
 on:
   schedule:
-        - cron: '30 23 * * 0-6'
+        - cron: '00 03 * * 0-6'
+          timezone: "Asia/Jakarta"
   workflow_dispatch:
 jobs:
   adguardfilter:
