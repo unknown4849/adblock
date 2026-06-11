@@ -28,17 +28,6 @@
 	  "type": "adblock"
     },
 	{
-      "name": "HaGeZi's Windows/Office Tracker DNS Blocklist",
-      "source": "https://blocklistproject.github.io/Lists/adguard/crypto-ags.txt",
-	  "type": "adblock"
-    },
-	{
-      "name": "First-party trackers host list",
-      "source": "https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt",
-	  "type": "hosts",
-	  "transformations": ["Compress"]
-    },
-	{
       "name": "multi-party only-trackers",
       "source": "https://hostfiles.frogeye.fr/multiparty-only-trackers-hosts.txt",
 	  "type": "hosts",
