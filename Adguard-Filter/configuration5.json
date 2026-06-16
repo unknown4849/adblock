@@ -18,18 +18,6 @@
 	  "type": "adblock"
     },
 	{
-      "name": "First-party trackers host list",
-      "source": "https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt",
-	  "type": "hosts",
-	  "transformations": ["Compress"]
-    },
-	{
-      "name": "multi-party only-trackers",
-      "source": "https://hostfiles.frogeye.fr/multiparty-only-trackers-hosts.txt",
-	  "type": "hosts",
-	  "transformations": ["Compress"]
-    },
-	{
       "name": "HaGeZi's TikTok Fingerprinting DNS Blocklist",
       "source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.tiktok.txt",
 	  "type": "adblock"
