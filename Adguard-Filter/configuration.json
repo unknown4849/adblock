@@ -28,8 +28,8 @@
 	  "type": "adblock"
     },
 	{
-      "name": "multi-party only-trackers",
-      "source": "https://hostfiles.frogeye.fr/multiparty-only-trackers-hosts.txt",
+      "name": "No-Microslop",
+      "source": "https://raw.githubusercontent.com/jmdugan/blocklists/master/corporations/microsoft/all",
 	  "type": "hosts",
 	  "transformations": ["Compress"]
     },
