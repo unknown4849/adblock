@@ -1,6 +1,12 @@
 {
   "name": "Unified hosts Block - HP",
   "sources": [
+	{
+      "name": "No-Slop",
+      "source": "https://codeberg.org/lumiworx/HPT-AI-Blocklist/raw/branch/main/HPT-Full-AI-List",
+	  "type": "hosts",
+	  "transformations": ["Compress"]
+    },
  	{
       "name": "HaGeZi's Pro+ mini",
       "source": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/pro.plus.mini.txt",
