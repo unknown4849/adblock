@@ -38,5 +38,5 @@ jobs:
       - name: git add
         run: |
           git add -u
-          git commit -m "update"
+          git commit -m "Auto update"
           git push
