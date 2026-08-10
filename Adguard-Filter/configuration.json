@@ -25,7 +25,7 @@
 	},
 	{
       "name": "HaGeZi's Windows/Office Tracker DNS Blocklist",
-      "source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.winoffice.txt",
+      "source": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/native.winoffice.txt",
 	  "type": "adblock"
     },
 	{
