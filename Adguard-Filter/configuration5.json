@@ -20,17 +20,17 @@
     },
 	{
       "name": "HaGeZi's Vivo Tracker DNS Blocklist",
-      "source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.vivo.txt",
+      "source": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/native.vivo.txt",
 	  "type": "adblock"
     },
 	{
       "name": "HaGeZi's TikTok Fingerprinting DNS Blocklist",
-      "source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.tiktok.txt",
+      "source": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/native.tiktok.txt",
 	  "type": "adblock"
     },
 	{
       "name": "HaGeZi's TikTok Extended Fingerprinting DNS Blocklist",
-      "source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.tiktok.extended.txt",
+      "source": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/native.tiktok.extended.txt",
 	  "type": "adblock"
     },
 	{
