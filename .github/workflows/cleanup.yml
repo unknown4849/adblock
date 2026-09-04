@@ -4,7 +4,8 @@ name: Cleanup
 on:
   # Triggers the workflow on push or pull request events but only for the "main" branch
   schedule:
-        - cron: '00 00 * * 6'
+        - cron: '00 04 * * 0-6'
+          timezone: "Asia/Jakarta"
   workflow_dispatch:
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
