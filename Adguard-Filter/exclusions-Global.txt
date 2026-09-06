@@ -2,8 +2,6 @@
 
 ||hoyo.link^
 ||shope.ee^
-||crashsight.wetest.net^
-||perfsight.wetest.net^
 ||event-log-api-data-platform-data-lake-prod.gryphline.com^
 ||event-log-api-ipv6.gryphline.com^
 ||eventlog.gryphline.com^
