@@ -2,18 +2,3 @@
 
 ||hoyo.link^
 ||shope.ee^
-||event-log-api-data-platform-data-lake-prod.gryphline.com^
-||event-log-api-ipv6.gryphline.com^
-||eventlog.gryphline.com^
-||native-log-collect.gryphline.com^
-||qcloud-sg-datareceiver.kurogame.xyz^
-||mp-gb-sdklog.kurogames.net^
-||apm-log-upload-os.hoyoverse.com^
-||log-upload-os.hoyoverse.com^
-||sg-public-data-api.hoyoverse.com^
-||sdk-os-static.hoyoverse.com^
-||clientlog.pwsdk.com^
-||dlog.pwsdk.com^
-||event.pwsdk.com^
-||log1.pwsdk.com^
-||log2.pwsdk.com^
