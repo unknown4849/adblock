@@ -1,6 +1,6 @@
 !
 ! Title: Unified hosts Block
-! Last modified: 2026-09-06T14:48:28.183Z
+! Last modified: 2026-09-06T14:55:23.203Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.1
 !
@@ -5925,11 +5925,6 @@
 ||analytics.akharinkhabar.ir^
 ||stat.akharinkhabar.ir^
 ||analytics.akhromieiev.com^
-||as-datareceiver.aki-game.net^
-||eu-datareceiver.aki-game.net^
-||hk-datareceiver.aki-game.net^
-||jp-datareceiver.aki-game.net^
-||us-datareceiver.aki-game.net^
 ||umami-lksokccg8w080o0ko008cg4k.aki-solutions.ch^
 ||ww-analytics.akinagames.com^
 ||ww-metrics.akinagames.com^
@@ -42548,12 +42543,6 @@
 ||analytics.grwd.link^
 ||x.grxchange.gr^
 ||ads.gry-online.pl^
-||data-p.gryphline.com^
-||event-log-api-data-platform-data-lake-prod.gryphline.com^
-||event-log-api-ipv6.gryphline.com^
-||eventlog.gryphline.com^
-||native-log-collect.gryphline.com^
-||sentry.gryphline.com^
 ||ver.grypowls.sbs^
 ||sst.gryps.ch^
 ||metrics.gs-chat.com^
@@ -45621,20 +45610,6 @@
 ||sadbmetrics.hoy.es^
 ||utiq.hoy.es^
 ||log-upload-os.hoyolab.com^
-||sentry.eks.hoyoverse.com^
-||abtest-api-data-sg.hoyoverse.com^
-||ad-log-upload-os.hoyoverse.com^
-||apm-log-upload-os.hoyoverse.com^
-||bh3-sdk-os-static.hoyoverse.com^
-||devlog-upload-os.hoyoverse.com^
-||hkrpg-log-upload-os.hoyoverse.com^
-||log-upload-os.hoyoverse.com^
-||sdk-log-upload-os.hoyoverse.com^
-||sdk-os-static.hoyoverse.com^
-||sentry-sea.hoyoverse.com^
-||sg-public-data-api.hoyoverse.com^
-||ys-log-upload-os.hoyoverse.com^
-||zzz-log-upload-os.hoyoverse.com^
 ||telemetry.pod1.prod.avatar.ext.hp.com^
 ||telemetry.pod3.prod.avatar.ext.hp.com^
 ||telemetry.pod4.prod.avatar.ext.hp.com^
@@ -51364,8 +51339,6 @@
 ||web-sentry.kurogame.com^
 ||web-sentry.kurogame.net^
 ||adsrv.kurogames.com^
-||aki-gb-sdklog.kurogames.net^
-||mp-gb-sdklog.kurogames.net^
 ||sst.kurs-radar.com^
 ||analytics.global.kurtgeiger.com^
 ||analytics.kurtgeiger.com^

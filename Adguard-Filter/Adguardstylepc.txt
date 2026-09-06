@@ -1,6 +1,6 @@
 !
 ! Title: Unified hosts Block - HP
-! Last modified: 2026-09-06T14:48:25.137Z
+! Last modified: 2026-09-06T14:55:20.309Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.1
 !
@@ -2536,11 +2536,6 @@
 ||matomo.akbal.dev^
 ||www.akfa.uz^
 ||analytics.akharinkhabar.ir^
-||as-datareceiver.aki-game.net^
-||eu-datareceiver.aki-game.net^
-||hk-datareceiver.aki-game.net^
-||jp-datareceiver.aki-game.net^
-||us-datareceiver.aki-game.net^
 ||www.akick.com^
 ||atlas.r.akipam.com^
 ||www.aktien-global.de^
@@ -12766,11 +12761,6 @@
 ||ingest.grupoadslzone.es^
 ||stats.gruporeforma.com^
 ||x.grxchange.gr^
-||data-p.gryphline.com^
-||event-log-api-data-platform-data-lake-prod.gryphline.com^
-||event-log-api-ipv6.gryphline.com^
-||eventlog.gryphline.com^
-||native-log-collect.gryphline.com^
 ||searchad-phinf.pstatic.net.static.gscdn.net^
 ||cdn.gsght.com^
 ||a.gsmarena.com^
@@ -13602,17 +13592,6 @@
 ||pixel.howl.link^
 ||s.howtoforge.com^
 ||log-upload-os.hoyolab.com^
-||sentry.eks.hoyoverse.com^
-||abtest-api-data-sg.hoyoverse.com^
-||ad-log-upload-os.hoyoverse.com^
-||apm-log-upload-os.hoyoverse.com^
-||hkrpg-log-upload-os.hoyoverse.com^
-||log-upload-os.hoyoverse.com^
-||sdk-log-upload-os.hoyoverse.com^
-||sdk-os-static.hoyoverse.com^
-||sg-public-data-api.hoyoverse.com^
-||ys-log-upload-os.hoyoverse.com^
-||zzz-log-upload-os.hoyoverse.com^
 ||telemetry.pod1.prod.avatar.ext.hp.com^
 ||telemetry.pod3.prod.avatar.ext.hp.com^
 ||telemetry.pod4.prod.avatar.ext.hp.com^
@@ -15133,8 +15112,6 @@
 ||web-sentry.kurogame.com^
 ||web-sentry.kurogame.net^
 ||adsrv.kurogames.com^
-||aki-gb-sdklog.kurogames.net^
-||mp-gb-sdklog.kurogames.net^
 ||parts.kuru2jam.com^
 ||www.kuru2jam.com^
 ||ranking.kuruten.jp^
