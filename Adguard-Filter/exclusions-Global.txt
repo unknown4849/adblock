@@ -2,9 +2,9 @@
 
 ||hoyo.link^
 ||shope.ee^
-||kurogame.xyz^
-||kurogames.net^
-||aki-game.net^
-||gryphline.com^
-||kurogame.xyz^
-||hoyoverse.com^
+||*.kurogame.xyz^
+||*.kurogames.net^
+||*.aki-game.net^
+||*.gryphline.com^
+||*.kurogame.xyz^
+||*.hoyoverse.com^
