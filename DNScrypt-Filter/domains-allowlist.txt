@@ -1,7 +1,10 @@
 edgesuite.net
+sobot.com
 *.kurogame.xyz
 *.kurogames.net
 *.aki-game.net
 *.gryphline.com
 *.kurogame.xyz
 *.hoyoverse.com
+*.gryphline.com
+*.pwsdk.com
