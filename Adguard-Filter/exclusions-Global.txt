@@ -8,3 +8,4 @@
 ||*.gryphline.com^
 ||*.kurogame.xyz^
 ||*.hoyoverse.com^
+||*.edgesuite.net
