@@ -16,4 +16,4 @@
 ||data-rep.livetech.shopee.co.id^
 ||live.shopee.co.id^
 ||asia-magazineunlockstatic.vivoglobal.com^
-||brave.com^$denyallow=go-updater.brave.com|sync-v2.brave.com|search.brave.com|componentupdater.brave.com|extensionupdater.brave.com
+||brave.com^$denyallow=go-updater.brave.com|sync-v2.brave.com|search.brave.com|componentupdater.brave.com|extensionupdater.brave.com|redirector.brave.com
