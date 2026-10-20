@@ -15,5 +15,4 @@
 ||content.garena.com^
 ||data-rep.livetech.shopee.co.id^
 ||live.shopee.co.id^
-||go-updater.brave.com^
 ||asia-magazineunlockstatic.vivoglobal.com^
