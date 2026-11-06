@@ -21,7 +21,8 @@
 	{
       "name": "ShadowWhisperer Tracking",
       "source": "https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/refs/heads/master/Lists/Tracking",
-	  "type": "adblock"
+	  "type": "hosts",
+	  "transformations": ["Compress"]
     },
 	{
       "name": "HaGeZi's Windows/Office Tracker DNS Blocklist",
