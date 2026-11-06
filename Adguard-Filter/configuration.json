@@ -19,10 +19,10 @@
 	  "type": "adblock"
     },
 	{
-      "name": "urlhaus-filter-agh",
-      "source": "https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-agh-online.txt",
-	  "type": "adblock"	
-	},
+      "name": "ShadowWhisperer Tracking",
+      "source": "https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/refs/heads/master/Lists/Tracking",
+	  "type": "adblock"
+    },
 	{
       "name": "HaGeZi's Windows/Office Tracker DNS Blocklist",
       "source": "https://hagezi-mirror.dnsbunker.org/adblock/native.winoffice.txt",
