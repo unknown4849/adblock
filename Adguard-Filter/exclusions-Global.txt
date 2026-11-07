@@ -9,3 +9,4 @@
 ||*.kurogame.xyz^
 ||*.hoyoverse.com^
 ||*.edgesuite.net
+||s.youtube.com^
