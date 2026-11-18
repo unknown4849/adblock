@@ -12,6 +12,11 @@
       "source": "https://hagezi-mirror.dnsbunker.org/adblock/pro.plus.txt",
 	  "type": "adblock"
     },
+ 	{
+      "name": "oisd small",
+      "source": "https://small.oisd.nl",
+	  "type": "adblock"
+    },
 	{
       "name": "Stalkerware Indicators List",
       "source": "https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/refs/heads/master/generated/hosts_full",
