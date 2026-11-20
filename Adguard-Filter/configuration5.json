@@ -39,12 +39,6 @@
 	  "type": "adblock"
     },
 	{
-      "name": "ShadowWhisperer Tracking",
-      "source": "https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/refs/heads/master/Lists/Tracking",
-	  "type": "hosts",
-	  "transformations": ["Compress"]
-    },
-	{
       "name": "AntiGarena",
       "source": "AntiGarena.txt",
 	  "type": "adblock"
