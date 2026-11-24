@@ -12,5 +12,5 @@ play-tx-src.livestream.shopee.co.id
 qplay-sp.vod.susercontent.com
 play-ws-src.livestream.shopee.co.id
 content.garena.com
-brave.com
+brave-core-ext.s3.brave.com
 mimir2.vivaldi.com
