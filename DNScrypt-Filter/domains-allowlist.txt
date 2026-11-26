@@ -1,4 +1,8 @@
 edgesuite.net
+xboxlive.com
+xboxservices.com
+www.microsoft.com
+windowsupdate.com
 sobot.com
 gryphline.com
 pwsdk.com
